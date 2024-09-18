@@ -1,0 +1,3 @@
+openai>=1.46.0
+pydantic==2.9.2
+tenacity==9.0.0
