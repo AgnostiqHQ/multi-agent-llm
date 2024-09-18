@@ -1,0 +1,849 @@
+[
+    {
+        "steps": [
+            {
+                "explanation": "Start with the numbers 1, 11, 12, and 12. I need to combine them using operations to make 24.",
+                "output": "1, 11, 12, 12"
+            },
+            {
+                "explanation": "One possible operation is to multiply 12 by 2 to make 24. To create 2, I can subtract 1 from 11, as 11 - 1 = 10, then I can divide the second 12 by 12, which equals 1, and finally add them up together. This gives us two of the numbers I need for the multiplication.",
+                "output": "(11 - 1) = 10, (12 / 12) = 1"
+            },
+            {
+                "explanation": "Now, I can proceed to create my equation for 24 as follows: (11 - 1) * (12 / 12) * 12 or I can simplify it to just two operations, which returns to my basic math principles.",
+                "output": "(10 * 1) * 12 = 24."
+            },
+            {
+                "explanation": "Finally, I simplify: 24 = 12 * (11 - 1) * (12 / 12) = 24.",
+                "output": "24."
+            }
+        ],
+        "final_answer": "(12 * (11 - 1)) / 12 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start with the given numbers: 9, 9, 11, 12.",
+                "output": "9, 9, 11, 12"
+            },
+            {
+                "explanation": "First, we can add the two 9s together.",
+                "output": "9 + 9 = 18"
+            },
+            {
+                "explanation": "Now we have 18 and need to use 11 and 12 to reach 24. Let's see how we can combine these.",
+                "output": "18, 11, 12"
+            },
+            {
+                "explanation": "We haven't used either 11 or 12 yet, so we can try combining them to get to 24.",
+                "output": "To find a means to reach 24 from 18, we can consider adding or multiplying with 12."
+            },
+            {
+                "explanation": "If we do 18 + 12, we exceed 24, so let's consider using 11 first.",
+                "output": "Let's compute: 18 - 11 = 7."
+            },
+            {
+                "explanation": "So now we have 7, and we are left with the number 12 which we still need to incorporate.",
+                "output": "7, 12"
+            },
+            {
+                "explanation": "To reach 24, we can multiply the result of our computations involving 11 and the last number, 12.",
+                "output": "Let's see if we can multiply back or adjust. We still can add 12!"
+            },
+            {
+                "explanation": "If we compute: (11 - 12) = -1, do that to 9 adding another 9: 9 + (-1) is not plausible. But, we can mix adding another 12 and see if we can manipulate to reach 24.",
+                "output": "We haven\u2019t truly gotten any answers yet that add or compute accordingly without breaching base operations."
+            },
+            {
+                "explanation": "After organized tries, it becomes clear we should rather attempt straight 12 - 11 = 1, then add those to another 9: 9 + 1 = 10, or....",
+                "output": "Overrides from just basic addition."
+            },
+            {
+                "explanation": "Restructuring gives ways through provably: ((12 - 11) * 9) + 9 = 24, giving: 1*9 + 9 = 18, isn\u2019t viable.",
+                "output": ""
+            },
+            {
+                "explanation": "However, organizing a functional calculation shows that 12 * (9/11) gives nearly even; let's refine. A direct adjusted formula is tougher.",
+                "output": ""
+            },
+            {
+                "explanation": "The solution works out from an intermediate operation, propelling a duel to 12 and directly removing overlaps from just calculations.",
+                "output": ""
+            },
+            {
+                "explanation": "Final computed result calculates through visual inspection forming: 12 + 11 + 9 + 9 collapses distilling equationally to the operational result needed.",
+                "output": ""
+            }
+        ],
+        "final_answer": "(11 - (9/9)) * 12 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Combine two of the 3's to add them together: 3 + 3 = 6",
+                "output": "6"
+            },
+            {
+                "explanation": "Now, multiply the previously calculated 6 by the remaining 3: 6 * 3 = 18",
+                "output": "18"
+            },
+            {
+                "explanation": "Finally, add the 9 to the current total: 18 + 9 = 27",
+                "output": "27"
+            }
+        ],
+        "final_answer": "Not achievable with the given numbers"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "We have the numbers 10, 10, 12, and 13. We first look for ways to combine these numbers mathematically to achieve 24.",
+                "output": "Start by considering possible combinations that could lead to 24."
+            },
+            {
+                "explanation": "Since 24 is a product of 3 and 8, let's see if we can create these two numbers using our given numbers.",
+                "output": "Explore combinations like (some number) x (some other number) = 24."
+            },
+            {
+                "explanation": "One starting point could be using one of the 10s to help manufacture a product that can lead to 24. Let's try to factor things.",
+                "output": "10 and 12 can be inspected for their sum and multiplication properties."
+            },
+            {
+                "explanation": "If we multiply one of the 10s by 12, we get 120. However, we need to adjust this to reach 24, as it is too high.",
+                "output": "Multiply and then divide or subtract in some manner."
+            },
+            {
+                "explanation": "Instead, let's divide 12 by 10. We get 1.2, which is quite smaller than needed. Thus, try combining in another manner.",
+                "output": "We can add the two 10s to make 20. Let's see how we can derive 4 from 12 and 13."
+            },
+            {
+                "explanation": "If we take (13 - 12) = 1, now we can assess how we can utilize that '1'.",
+                "output": "Now we have 20 from two 10s and we need to form the expression to connect these elements."
+            },
+            {
+                "explanation": "Let's use the 1 we established earlier. 20 + 4 will yield 24.",
+                "output": "So 20 + (13 - 12) can create our target."
+            },
+            {
+                "explanation": "Therefore, using the numbers 10 + 10 + (13 - 12) = 24. The order matters but we maintain single usage.",
+                "output": "Let's clearly formulate this."
+            }
+        ],
+        "final_answer": "10 + 10 + (13 - 12) = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Let's first look at the numbers: 2, 5, 7, and 9. We need to combine them using basic arithmetic operations (addition, subtraction, multiplication, and division) to equal 24.",
+                "output": "Start combining a pair of numbers."
+            },
+            {
+                "explanation": "One obvious combination is to try using multiplication, as it can quickly increase the value. Let's multiply 5 and 2 first.",
+                "output": "5 * 2 = 10."
+            },
+            {
+                "explanation": "Now we have 10, and we can look at the remaining numbers (7 and 9) to reach 24. Let's add 7 to 10.",
+                "output": "10 + 7 = 17."
+            },
+            {
+                "explanation": "Next, we need to get to 24 from 17. We can do this by finding a way to incorporate the 9.",
+                "output": "We observe we need 7 more to get from 17 to 24."
+            },
+            {
+                "explanation": "Notice we can use the remaining number 9 to our advantage. Let's have a closer examination: if we take the 9, and look at the operation of 9 - 5 (using the 5 we multiplied before), we get: 9 - 5 = 4.",
+                "output": "9 - 5 = 4."
+            },
+            {
+                "explanation": "If we add that 4 to our previous result of 20, we'll have: 17 + 4 = 21, but we're still off. Let's consider using addition differently with using 9 as a divisor: if we take (9 - 5) * 2.",
+                "output": "(9 - 5) = 4."
+            },
+            {
+                "explanation": "Then if we multiply that 4 by 2 to get 8, and 8 plus 17 gives us the count we need (24).",
+                "output": "(5 * 2) + (9 - 5) = 5 + 4 = 9, and then we can multiply that structure up."
+            },
+            {
+                "explanation": "We recognize here again: we misread how we combined. Correct summation here to keep distinct \u2013 we can multiply initial by similarity.",
+                "output": "We can summarize an effective operation."
+            },
+            {
+                "explanation": "Instead of creating a composite approach, let's approach from bottom line more effectively, reframing to make 5 + (2 * 9) but we are under.",
+                "output": "We instead can attempt: 7 * 2 + 5 + 9 or 7 accordingly."
+            },
+            {
+                "explanation": "Final solution confirmed matches: using 9 *(5-2).",
+                "output": "Calculation: (5 - 2) * 9 + 7 = 3 * 9 + 7 = 27 + 7 - 9 total backchecks then simplified."
+            }
+        ],
+        "final_answer": "(2 * (9 - 7)) * 5 = 24."
+    },
+    {
+        "steps": [
+            {
+                "explanation": "We have the numbers 3, 3, 9, and 11. The goal is to reach the number 24 using these numbers with basic arithmetic operations.",
+                "output": "Starting with the provided numbers: 3, 3, 9, 11."
+            },
+            {
+                "explanation": "First, let's try using multiplication and addition since 24 is relatively large. We can start by focusing on the larger numbers, 9 and 11.",
+                "output": "Considering combinations with 9 and 11."
+            },
+            {
+                "explanation": "Calculate 11 - 3 to utilize the 3\u2019s effectively. This gives us 8.",
+                "output": "11 - 3 = 8."
+            },
+            {
+                "explanation": "Now we can take 8 and multiply it by 3 (the other 3). This gives us 24 exactly.",
+                "output": "8 * 3 = 24."
+            }
+        ],
+        "final_answer": "(11 - 3) * 3 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start with the numbers 3, 3, 5, and 13. To get as close to 24 as possible, we can use multiplication and addition strategically.",
+                "output": "We note that 13 is a larger number, so let's see how we can combine it with the others."
+            },
+            {
+                "explanation": "Next, we calculate 3 + 3 to make 6. This will help us see how it interacts with 5 and 13.",
+                "output": "3 + 3 = 6."
+            },
+            {
+                "explanation": "Now, let's look at how to combine the result with 5. We'll multiply now: take the result (6) and multiply it by 5.",
+                "output": "6 * 5 = 30."
+            },
+            {
+                "explanation": "We have obtained 30, which is more than 24. Let's use 13 in a way to reduce this value. We can subtract 13 from 30 to find a way to reach 24.",
+                "output": "30 - 13 = 17."
+            },
+            {
+                "explanation": "This still doesn't reach 24, so we need to reassess our approach. Let's go back to the combinations.",
+                "output": "Instead of directly aiming for 30, let\u2019s rethink how we could manipulate 13."
+            },
+            {
+                "explanation": "Consider using 13 directly with multiplication and sum the rest. If we apply (5 - 3) for a modified approach, we can construct another way to reach 24.",
+                "output": "5 - 3 = 2."
+            },
+            {
+                "explanation": "Now, multiply this obtained value (2) directly with 13: 13 * 2, which definitely alters the way we align our operations.",
+                "output": "13 * 2 = 26."
+            },
+            {
+                "explanation": "Now we take 26 and subtract 3 to reach 24, which was our target all along.",
+                "output": "26 - 3 = 24."
+            }
+        ],
+        "final_answer": "(5 - 3) * 13 - 3 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start with the numbers given: 1, 6, 11, 12.",
+                "output": "Numbers: 1, 6, 11, 12"
+            },
+            {
+                "explanation": "We aim to combine these numbers using mathematical operations to reach 24.",
+                "output": "Target: 24"
+            },
+            {
+                "explanation": "Let's try a combination using multiplication as it often helps us reach larger numbers quickly.",
+                "output": "Testing multiplication and addition."
+            },
+            {
+                "explanation": "Calculate (11 - 6), which gives us 5.",
+                "output": "11 - 6 = 5"
+            },
+            {
+                "explanation": "Now, we will use the result and multiply it by 12 to increase the value.",
+                "output": "Using 12 to scale up."
+            },
+            {
+                "explanation": "Calculate 5 * 12, which equals 60.",
+                "output": "5 * 12 = 60"
+            },
+            {
+                "explanation": "Now we have 1 remaining. Let's divide 60 by 1, which gives us 60. We recognize we need to scale down to 24 now.",
+                "output": "60 by removing 1."
+            },
+            {
+                "explanation": "So, we realize we can try a different route by using a combination of addition and multiplication in another way.",
+                "output": "Revisiting operations."
+            },
+            {
+                "explanation": "Let's try (12 * 2) now. But first, how can we make 2? We can use 1 + 1 to achieve this.",
+                "output": "Using combinations for multiplication."
+            },
+            {
+                "explanation": "Calculate (1 + 11 - 6), which gives us another route: 1 + (11 - 6) = 6.",
+                "output": "Finding routes to reach more targets."
+            },
+            {
+                "explanation": "Now we know we arrive back potentially at 12, now we revisit the original combination of another approach.",
+                "output": "Backtrack to find alternatives."
+            },
+            {
+                "explanation": "Consider this: 12/(1-6/11) could be rearranged to achieve the target!",
+                "output": "Finding new combinations."
+            },
+            {
+                "explanation": "After some exploration: (11 - 6) * 12 - 1 gives us exactly what we need! 5 * 12 - 1 = 59!",
+                "output": "Rethinking the combinations achieved."
+            },
+            {
+                "explanation": "Final combinations would allow (1 * (6 - (12 - 11))) to make progress towards achieving the target.",
+                "output": "Final review what connects to 24"
+            }
+        ],
+        "final_answer": "(12 - 6) * 4 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "We start with the numbers: 2, 3, 4, 8. Our goal is to use these numbers with basic operations to reach 24.",
+                "output": "2, 3, 4, 8."
+            },
+            {
+                "explanation": "We notice that if we multiply 3 and 8, we get 24. Let's first calculate that to see if we can reach 24.",
+                "output": "3 * 8 = 24."
+            },
+            {
+                "explanation": "Now we need to use the remaining numbers, which are 2 and 4. We can manipulate them to ensure we utilize all numbers given. However, since 3 * 8 already gives us 24, we can combine that with the remaining numbers creatively. Let's try adding the results of other operations.",
+                "output": "We can think about how to organize the numbers to exactly make 24."
+            },
+            {
+                "explanation": "If we try 3 * (4 - (2 - 8)), we can first calculate (2 - 8) which equals -6. Subtracting that from 4 gives us 10. Now, multiplying 3 * 10 does not equal 24, but lets determine whether we can use simpler operations first.",
+                "output": "Using 2 and 4 allows us the format to construct answers."
+            },
+            {
+                "explanation": "To validate our possible answer being from multiplying 8 and addition: Consider we can create 24 using 8 with each remaining number while also ensuring we creative with all inputs.",
+                "output": "Next I can try more clear routes."
+            },
+            {
+                "explanation": "If we multiply some operations we can accurately produce clear results.",
+                "output": "This leads to the approach: 8 / 2 = 4."
+            },
+            {
+                "explanation": "Thus collecting them yields useful results and constructions.",
+                "output": "Now we know 4 can pair with 4 to create more\u2014hence we redraw our steps summarily."
+            },
+            {
+                "explanation": "In further retrospectives, using 4 would yield better connections\u2014finally securing it brings no waste to operations!",
+                "output": "This yields the path."
+            }
+        ],
+        "final_answer": "(8 / 2) * 3 = 12 is our first point then we finalize summation with + 4 - concludes to perfection!"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "We have the numbers 2, 5, 7, and 13. We need to figure out how to combine these using addition, subtraction, multiplication, and division to get 24.",
+                "output": "Start trying to create 24 with basic operations."
+            },
+            {
+                "explanation": "Let's consider combining the numbers using multiplication first, as 24 can be achieved more directly this way.",
+                "output": "We can explore combining numbers like 7 and 5 or 13 and 2."
+            },
+            {
+                "explanation": "One possible approach is to use multiplication of 2 and 13.",
+                "output": "2 * 13 = 26."
+            },
+            {
+                "explanation": "Now we can subtract a value from 26 to reach 24.",
+                "output": "From 26, let's subtract 2."
+            },
+            {
+                "explanation": "If we try this, what about using 7 and 5?",
+                "output": "We can directly combine them."
+            },
+            {
+                "explanation": "Multiply 7 by 5 gives us: 5 * 7 = 35.",
+                "output": "Then we need to manipulate that."
+            },
+            {
+                "explanation": "If we divide 35 by 13, it simplifies our approach with the appropriate operations.",
+                "output": "This variation can streamline our efforts."
+            },
+            {
+                "explanation": "Let's check what happens if we adjust combinations or stray toward using brackets.",
+                "output": "2 * (13 - 5) might yield functional results."
+            },
+            {
+                "explanation": "Calculating this: 13 - 5 = 8, then 2 * 8 = 16.",
+                "output": "We're still below 24."
+            },
+            {
+                "explanation": "Backtracking, we try pairing various increments together better.",
+                "output": ""
+            },
+            {
+                "explanation": "Create: (5 + 2) * (7 - 5) adjust to see larger outcomes.",
+                "output": ""
+            },
+            {
+                "explanation": "Calculate the inner workings. We find: 5 + 2 = 7 and, 7 - 5 = 2.",
+                "output": ""
+            },
+            {
+                "explanation": "This forms (7) * (2) or 14, which isn't optimal.",
+                "output": ""
+            },
+            {
+                "explanation": "However, if we take 13 and subtract 7, we get a different base.",
+                "output": ""
+            },
+            {
+                "explanation": "So revisiting this adequately, what if we navigate to reach only with the numbers?",
+                "output": ""
+            },
+            {
+                "explanation": "Exploring targetable outcomes: 13 - 2 = 11 and then try 5 + 7.",
+                "output": ""
+            },
+            {
+                "explanation": "These circles bring layers closer. 5 + 2 gives 7 as pre-reference.",
+                "output": ""
+            },
+            {
+                "explanation": "Then arrange to: 13 + (7 - (5)) combines to stabilize.",
+                "output": ""
+            },
+            {
+                "explanation": "Ultimately, work with broader fractional adjustments, exploring all spaced options.",
+                "output": ""
+            }
+        ],
+        "final_answer": "(7 - (5 - 2)) * 13 = 24."
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Multiply 6 and 5 to get 30.",
+                "output": "6 * 5 = 30"
+            },
+            {
+                "explanation": "Subtract 12 from 30 to get 18.",
+                "output": "30 - 12 = 18"
+            },
+            {
+                "explanation": "Finally, subtract 18 by 3 to get 15 and then realize that's not 24, so I'll try another approach.",
+                "output": "18 - 3 = 15"
+            },
+            {
+                "explanation": "Now, for another approach: Let's try different operations directly with the numbers.",
+                "output": ""
+            },
+            {
+                "explanation": "Multiply 12 by 2 to get 24.",
+                "output": "12 * 2 = 24"
+            },
+            {
+                "explanation": "We can create '2' by dividing 6 by 3: 6/3 = 2.",
+                "output": "6 / 3 = 2"
+            },
+            {
+                "explanation": "Add the results from our multiplication: 24 + 0 = 24, which is already 24, so let's revise to include all numbers instead of aiming for such.",
+                "output": "24 - 0 = 24"
+            },
+            {
+                "explanation": "So what we want is to aim for 24 and make sure we calculate adding these results in different ways.",
+                "output": ""
+            },
+            {
+                "explanation": "After listing our operations, we notice that direct multiplication of our leading number is missing.",
+                "output": ""
+            },
+            {
+                "explanation": "We could also try something more straightforward by calculating 3 * (12 - 5) = 21.",
+                "output": "3 * (12 - 5) = 21"
+            }
+        ],
+        "final_answer": "(12 - 3) * 5 / 2 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start with the numbers 1, 10, 10, and 12.",
+                "output": "1, 10, 10, 12"
+            },
+            {
+                "explanation": "First, let's multiply 10 and 12 together.",
+                "output": "10 * 12 = 120"
+            },
+            {
+                "explanation": "Now we have 1 and two 10s left, so we can add one of the 10s to 1 to get 11.",
+                "output": "1 + 10 = 11"
+            },
+            {
+                "explanation": "Next, we can divide 120 by 11 to find another logical connection.",
+                "output": "120 / 11 = approximately 10.909 (not useful)"
+            },
+            {
+                "explanation": "Instead, let's focus on a simpler approach: subtract 10 from 12.",
+                "output": "12 - 10 = 2"
+            },
+            {
+                "explanation": "Now we should have numbers 1, 10, and 2 remaining to make 24.",
+                "output": "1, 10, 2"
+            },
+            {
+                "explanation": "Multiply 10 by 2 to get to 20.",
+                "output": "10 * 2 = 20"
+            },
+            {
+                "explanation": "Finally, add the remaining 1 to 20 to reach 24.",
+                "output": "20 + 1 = 24"
+            }
+        ],
+        "final_answer": "(10 * 2) + (12 - 10) = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start by considering the operations that can combine the numbers. We have 2, 5, 6, and 7. One potential way is to look at combining higher values first with multiplication or addition.",
+                "output": "Combine 5 and 6."
+            },
+            {
+                "explanation": "5 + 6 = 11. Now we have 11, and we still have 2 and 7 left. We can either multiply or add with these numbers to get closer to 24.",
+                "output": "Use 11 + 7."
+            },
+            {
+                "explanation": "Combine 11 with 7. 11 + 7 = 18. Now we need to incorporate the last number, which is 2, to reach 24.",
+                "output": "Combine 18 and 2."
+            },
+            {
+                "explanation": "We can multiply 2 by 3 to reach a value that when combined will make 24. Consider using 6 instead.",
+                "output": "Use (6 - 2) to multiply."
+            },
+            {
+                "explanation": "Now we already have: 2, 5, 6, and 7. Let's hold 11 and try (6 - 2). That leads to 4. Then, and we can see we need to get to 24; we have 7, already in play.",
+                "output": "Multiply 4 by 7."
+            },
+            {
+                "explanation": "4 * 7 = 28 which exceeds what we want. We have to backtrack now to find the correct multiplication or addition.",
+                "output": ""
+            },
+            {
+                "explanation": "Instead, let's try a different combination: (6 * 2) + (5 - 7) or another combination of ways to reach further to 24.",
+                "output": "5 * 6 = 30, but we cannot reach there."
+            },
+            {
+                "explanation": "So we can just manipulate our approach. Let's shift to division to round things out with lower numbers. Finally, multiple divisions can align numbers closer to reduce to 24 directly.",
+                "output": "We'll focus on getting 3 from our previous step, and 18 by 6 - 3."
+            },
+            {
+                "explanation": "Finally, with the step finalized  we end with a correct way to conjure the outputs that lead directly to use. The closest path advocates using just 7 plus the lower counts.",
+                "output": "Final arrangement with traces to summarize, get (6 * 5) - 7 - 2 = 24."
+            }
+        ],
+        "final_answer": "(6 * 5) - (7 - 2) = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Combine the two 5's using multiplication to get 25.",
+                "output": "5 * 5 = 25"
+            },
+            {
+                "explanation": "Now we have 25 and we need to use the two 3's. First, let's add the two 3's to get 6.",
+                "output": "3 + 3 = 6"
+            },
+            {
+                "explanation": "Next, subtract the result of the addition (6) from the 25.",
+                "output": "25 - 6 = 19"
+            },
+            {
+                "explanation": "We've made a mistake as we still need the remaining operations to equal 24, so let's rethink and look for combinations.",
+                "output": "Reassess the operations."
+            },
+            {
+                "explanation": "Using the first 3 and 5: 3 multiplied by 5 gives us 15.",
+                "output": "3 * 5 = 15"
+            },
+            {
+                "explanation": "Now\u201d, we still have a last 3 and a last 5 left. We can now subtract another 3 from 15 which gives us 12.",
+                "output": "15 - 3 = 12"
+            },
+            {
+                "explanation": "Finally, take the last 5 and add it for the last operation: 12 + 5 gives us 17.",
+                "output": "12 + 5 = 17"
+            },
+            {
+                "explanation": "Now we have to further rethink combining the numbers, in new attempts.",
+                "output": "Adjust operations."
+            },
+            {
+                "explanation": "Let's try again from initial operations, making the combinations from the start.",
+                "output": "Backtrack to start."
+            },
+            {
+                "explanation": "First let's add 5 + 5, resulting in 10.",
+                "output": "5 + 5 = 10"
+            },
+            {
+                "explanation": "We can then add this 10 to a multiplied result of 3 from the first 3.",
+                "output": "3 * 3 = 9"
+            },
+            {
+                "explanation": "Now we combine results: 10 + 9 creating a up movement to 19 together.",
+                "output": "10 + 5 + 9 = 24 now!"
+            },
+            {
+                "explanation": "Confirming final operations from rethinking steps.",
+                "output": "Final confirmation, true solution."
+            }
+        ],
+        "final_answer": "(5 - (3/3)) * 5 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start by considering how we can combine the numbers through operations to reach 24.",
+                "output": "Consider the numbers: 4, 4, 5, 10."
+            },
+            {
+                "explanation": "Notice that multiplying two of the numbers might help us reach a higher total that we can adjust to 24.",
+                "output": "Let's try multiplying 5 and the second 4."
+            },
+            {
+                "explanation": "Calculate 5 * 4.",
+                "output": "5 * 4 = 20."
+            },
+            {
+                "explanation": "Now we have 20. Next, we need to add to reach 24. We can use the remaining numbers: 4 and 10.",
+                "output": "Next, we need to add 4."
+            },
+            {
+                "explanation": "Now we have 20 + 4.",
+                "output": "20 + 4 = 24."
+            },
+            {
+                "explanation": "We should also consider if there's an operation with the remaining number (10) that can be avoided or manipulated by the first numbers to simplify the process.",
+                "output": "Since 20 + 4 gives us 24, we don't need 10 anymore in our calculations."
+            },
+            {
+                "explanation": "Thus, we confirm our successful usage of the numbers as intended with the final combination yielding 24.",
+                "output": "We have used numbers: 4, 4, and 5. Final numbers were 5 * 4 + 4. "
+            }
+        ],
+        "final_answer": "(5 * 4) + 4 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "First, we'll look for potential combinations to reach 24 using 4, 5, 5, and 9.",
+                "output": "Initial numbers: 4, 5, 5, 9"
+            },
+            {
+                "explanation": "We can think of using multiplication to get close to 24. 5 times 5 equals 25, which is very close to 24.",
+                "output": "5 * 5 = 25"
+            },
+            {
+                "explanation": "Now we can either add or subtract from this 25. To reach 24, we can subtract 1 from 25.",
+                "output": "25 - 1 = 24"
+            },
+            {
+                "explanation": "Next, we need to create the 1 from the remaining numbers, which are 4 and 9.",
+                "output": "We can achieve 1 by subtracting 4 from 5."
+            },
+            {
+                "explanation": "If we take one of the 5's and subtract 4, we get:",
+                "output": "5 - 4 = 1"
+            },
+            {
+                "explanation": "Now we have the components: 5 * 5, and we derive 1 from the 4 and 5.",
+                "output": "We can now revise our operations."
+            },
+            {
+                "explanation": "Putting it all together: (5 * 5) - (4) = 24.",
+                "output": "Final expression: (5 * 5) - (4) or 25 - 1 = 24."
+            }
+        ],
+        "final_answer": "(5 * 5) - (4) = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start with the numbers: 3, 7, 7, 13. We need to combine these using the operations to make 24.",
+                "output": "Given numbers: 3, 7, 7, 13"
+            },
+            {
+                "explanation": "First, combine the two 7s by multiplying them together: 7 * 7 = 49.",
+                "output": "7 * 7 = 49"
+            },
+            {
+                "explanation": "Now subtract the 3 from 49: 49 - 3 = 46.",
+                "output": "49 - 3 = 46"
+            },
+            {
+                "explanation": "Next, take the result (46) and divide it by the remaining number (13): 46 / 13.",
+                "output": "46 / 13 = 3.538 (not useful in reaching 24 directly)"
+            },
+            {
+                "explanation": "After some trial and error, let's try a different method: Start with 13 and 7.",
+                "output": "Starting with: 13 and 7"
+            }
+        ],
+        "final_answer": "(7 - (3 / 7)) * 13 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Start by considering how to use the largest number effectively. Here, we have 12 as the largest number.",
+                "output": "Starting with 12."
+            },
+            {
+                "explanation": "Next, I recognize that I can multiply 12 by a result of the other numbers, starting with the two 1s.",
+                "output": "Looking at 1 and 1."
+            },
+            {
+                "explanation": "Multiply the two 1s to get 1: 1 * 1 = 1.",
+                "output": "1 from 1 * 1."
+            },
+            {
+                "explanation": "Now I have 12 and 1, and I can sum them.",
+                "output": "Combine 12 with 1."
+            },
+            {
+                "explanation": "Adding 12 + 1 = 13.",
+                "output": "So, 12 + (1 * 1) = 13."
+            },
+            {
+                "explanation": "Now I still have the number 3 left to add to our result. This doesn't directly help us reach 24.",
+                "output": "Considering next steps."
+            },
+            {
+                "explanation": "I'm looking to combine the 3. Let's multiply 3 with the result of 2.",
+                "output": "3 multiplied to adjust output."
+            },
+            {
+                "explanation": "If we take 3 from the equation, I can work backwards or adjust combinations to reach 24.",
+                "output": "Trying various configurations."
+            },
+            {
+                "explanation": "Instead, consider using the 12 with 3: (12 - 3) gives 9, now how to utilize the 1s.",
+                "output": "Using 12 and 3 strategy."
+            },
+            {
+                "explanation": "Use addition and multiplication correctly: (12 / (1 - 1/3)).",
+                "output": "This gives us (12 / 1/3) which gives 36."
+            },
+            {
+                "explanation": "But we need it correctly simplified.",
+                "output": "Ultimately understanding - follow operations to reach."
+            },
+            {
+                "explanation": "Correct steps: `12 * (1 + 1/3).` So: 12 * 1 = 12, add 12, we focus back to target.",
+                "output": "Final approach simplifying combinations."
+            }
+        ],
+        "final_answer": "(12 / (1 - (1/3)))"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Multiply 10 and 12.",
+                "output": "10 * 12 = 120"
+            },
+            {
+                "explanation": "Divide 120 by 8.",
+                "output": "120 / 8 = 15"
+            },
+            {
+                "explanation": "Subtract 4 from 15.",
+                "output": "15 - 4 = 11"
+            },
+            {
+                "explanation": "Multiply 11 by 2 to reach 24, but we cannot achieve it this way directly, we need a different approach.",
+                "output": "Not Valid."
+            },
+            {
+                "explanation": "Instead, divide 12 by 4.",
+                "output": "12 / 4 = 3"
+            },
+            {
+                "explanation": "Multiply the result by 8.",
+                "output": "3 * 8 = 24"
+            },
+            {
+                "explanation": "Now we have reached 24 using the numbers 4, 8, 12 and 10 once.",
+                "output": "Valid solution."
+            }
+        ],
+        "final_answer": "(12 / 4) * 8 = 24"
+    },
+    {
+        "steps": [
+            {
+                "explanation": "Let's consider the numbers: 2, 2, 10, 11.",
+                "output": "The goal is to form the number 24 using these numbers with basic operations."
+            },
+            {
+                "explanation": "First, we see if we can use multiplication to get close to 24. We can use the two 2s.",
+                "output": "2 * 10 = 20."
+            },
+            {
+                "explanation": "Now we have 20 and we are left with another 2 and 11.",
+                "output": "Next, we can add 2 to 20."
+            },
+            {
+                "explanation": "Calculating that gives us 20 + 2 = 22.",
+                "output": "Now we have 22 and we still have the 11 to use."
+            },
+            {
+                "explanation": "Instead of adding, let's try to see if we can form a better combination.",
+                "output": "Let's try a different approach."
+            },
+            {
+                "explanation": "Instead, we can calculate 10 - 2 = 8.",
+                "output": "Now we have 8 and we still have 2 and 11 left."
+            },
+            {
+                "explanation": "Next, we can multiply the remaining 2 with 11: 2 * 11 = 22.",
+                "output": "We have 22 and 8 from before."
+            },
+            {
+                "explanation": "Now let's subtract 22 - 8 = 14.",
+                "output": "This doesn't yield 24, so let's think about another operation."
+            },
+            {
+                "explanation": "Going back to our previous calculations, we can rethink our setup.",
+                "output": "Let\u2019s try combining the addition and multiplication properly."
+            },
+            {
+                "explanation": "Let\u2019s instead multiply 2 * 11 = 22 and try adding the last 2 to see where it leads.",
+                "output": "22 + 2 = 24!"
+            },
+            {
+                "explanation": "We have used all numbers and achieved the goal of 24.",
+                "output": "Final solution: (11 - 10) * 2 + 2 + 22 = 24."
+            }
+        ],
+        "final_answer": "(11 - 10) * 2 + 22 = 24"
+    },
+    {
+        "indices": [
+            984,
+            1269,
+            538,
+            919,
+            75,
+            239,
+            342,
+            682,
+            717,
+            316,
+            819,
+            1182,
+            724,
+            827,
+            575,
+            566,
+            636,
+            1347,
+            899,
+            15
+        ],
+        "metrics": {
+            "Accuracy": 0.0
+        }
+    }
+]

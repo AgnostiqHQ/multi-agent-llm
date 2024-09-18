@@ -1,0 +1,2408 @@
+[
+    {
+        "indices": [
+            61,
+            79,
+            33,
+            57,
+            4,
+            14,
+            21,
+            42,
+            44,
+            19,
+            51,
+            73,
+            45,
+            89,
+            35,
+            85,
+            39,
+            56,
+            0,
+            24,
+            65,
+            29,
+            9,
+            18,
+            13,
+            95,
+            41,
+            80,
+            96,
+            32,
+            15,
+            49,
+            22,
+            99,
+            63,
+            68,
+            1,
+            62,
+            46,
+            59,
+            23,
+            60,
+            7,
+            86,
+            3,
+            27,
+            67,
+            69,
+            50,
+            92,
+            31,
+            98,
+            76,
+            84,
+            97,
+            93,
+            43,
+            16,
+            30,
+            83,
+            12,
+            5,
+            66,
+            72,
+            48,
+            78,
+            54,
+            81,
+            53,
+            26,
+            20,
+            94,
+            74,
+            47,
+            88,
+            38,
+            90,
+            10,
+            36,
+            11,
+            40,
+            52,
+            64,
+            87,
+            91,
+            6,
+            8,
+            55,
+            77,
+            82,
+            25,
+            75,
+            17,
+            28,
+            70,
+            2,
+            58,
+            71,
+            37,
+            34
+        ],
+        "accuracy": 75.0,
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1_score": 0.75,
+        "predictions": [
+            "Matt Groening and Ian Boothby.",
+            "1983",
+            "Velvetpark is written more for a lesbian and queer-identified female readership.",
+            "San Francisco, California",
+            "'Woman's Era' is a women's interest magazine and 'Naj' is a lifestyle and women's magazine.",
+            "Oklahoma Sooners",
+            "10 January 1920",
+            "Jimmy Ellis",
+            "Raffaella Reggi was born first.",
+            "Sam Boyd Stadium",
+            "2016 Cannes Film Festival",
+            "Blue Grass Airport",
+            "Mark Masons' Hall",
+            "A magical English nanny.",
+            "Shukratara",
+            "J.R.R. Tolkien",
+            "International Imitation Hemingway Competition",
+            "Adam Levine",
+            "GmbH stands for 'Gesellschaft mit beschr\u00e4nkter Haftung'.",
+            "1978",
+            "He Married His Wife was directed by Roy Del Ruth, but John Arledge did not appear in either.",
+            "Dubai International Airport",
+            "Juliet Capulet",
+            "German culture",
+            "Teen Titans Go!",
+            "The Twist",
+            "Stone Brewing",
+            "The Dark Tower (series)",
+            "They are both writers.",
+            "Read It and Weep",
+            "Pulitzer Prize in General Nonfiction",
+            "Sarah Kerrigan",
+            "Opry Mills is a super-regional shopping mall located in Nashville, Tennessee, formerly the site of the Opryland USA theme park.",
+            "Oneida Limited",
+            "KXII",
+            "Discovery Zone was founded in Missouri.",
+            "Jonny Craig has been a member of more bands.",
+            "The Dewey Lake Monster.",
+            "No, Duke Energy is based in North Carolina, while Affiliated Managers Group is based in Massachusetts.",
+            "Roman Empire",
+            "M. Night Shyamalan",
+            "Gaby Hoffmann appeared in 'Now and Then'.",
+            "Love and Theft",
+            "The original line of the Baltimore and Ohio Railroad was from the port of Baltimore to Sandy Hook, located in Maryland.",
+            "Creature Comforts",
+            "Shakespeare's works are significant and include about 38 plays and 154 sonnets, highly regarded and performed worldwide.",
+            "Enigma",
+            "Both Ian Hunter and Rob Thomas are singers and songwriters.",
+            "Ricky Rubio",
+            "Both are known as writers.",
+            "1927",
+            "Albany, New York",
+            "Lacoste, France",
+            "Virginia",
+            "No, Lygodium is not a genus of orchids, but Maxillaria is.",
+            "Larnelle Harris",
+            "The cover art of the album \"X&Y\" features a combination of colors and blocks, representing Baudot code.",
+            "From 1988 to 1990.",
+            "Minnesota",
+            "Juliet",
+            "Engineering",
+            "a failed coup attempt by Nazi agents.",
+            "Crystal Dynamics",
+            "World War I",
+            "Aloe Vera of America",
+            "Battle of White Plains",
+            "Yes, both Ruggero Deodato and Alejandro Springall are film directors.",
+            "1998",
+            "To SquarePants or Not to SquarePants aired first.",
+            "No, Coldplay and Pierre Bouvier are not from the same country.",
+            "1941",
+            "Chinese Coffee",
+            "6",
+            "Stedelijk Museum Amsterdam",
+            "Daredevil",
+            "Marktown",
+            "World War II",
+            "Virginia",
+            "Captain Hans Geering",
+            "No, only Darren Benjamin Shepherd is American.",
+            "Universal Music Group",
+            "Benny",
+            "Bear",
+            "Molly Hatchet",
+            "Steven Spielberg",
+            "2004",
+            "2 March 1972",
+            "Matt Kemp",
+            "Martha Coolidge",
+            "Bhaktivedanta Manor",
+            "London",
+            "Loughborough University",
+            "Hawaii County",
+            "22 November 1761",
+            "Cleaning services, catering services, and security services.",
+            "Maine",
+            "Indiana University",
+            "You're Next",
+            "Frederick Lindemann",
+            "Papa Gino's"
+        ],
+        "ground_truths": [
+            "Matt Groening",
+            "1983",
+            "Velvetpark",
+            "San Francisco, California",
+            "fortnightly women interest magazine",
+            "Oklahoma Sooners",
+            "10 January 1920",
+            "Jimmy Ellis",
+            "Raffaella Reggi",
+            "Sam Boyd Stadium",
+            "69th Cannes Film Festival",
+            "Blue Grass Airport",
+            "Mark Masons' Hall",
+            "fictional character",
+            "Shukratara",
+            "J. R. R. Tolkien",
+            "The Bad Hemingway Contest",
+            "Adam Levine",
+            "Gesellschaft mit beschr\u00e4nkter Haftung",
+            "1978",
+            "John Ford",
+            "Dubai International Airport",
+            "Tybalt",
+            "German",
+            "Teen Titans Go!",
+            "the Twist",
+            "Stone Brewing",
+            "The Dark Tower",
+            "novelist",
+            "\"Read It and Weep\" (2006)",
+            "Pulitzer Prize",
+            "Sarah Kerrigan",
+            "super-regional shopping mall",
+            "Oneida Limited",
+            "KXII",
+            "Discovery Zone",
+            "Jonny\" Craig",
+            "Dewey Lake Monster",
+            "no",
+            "Roman",
+            "M. Night Shyamalan",
+            "\"Now and Then\" (1995)",
+            "Love and Theft",
+            "the port of Baltimore west to Sandy Hook",
+            "Creature Comforts",
+            "chronological collection of critical quotations",
+            "Enigma",
+            "singer, songwriter",
+            "Ricard Rubio i Vives",
+            "author",
+            "1927",
+            "New York",
+            "Lacoste, France",
+            "California",
+            "no",
+            "Larnelle Harris",
+            "Baudot code",
+            "1988",
+            "Minnesota",
+            "Anne Perry",
+            "Engineering",
+            "a failed coup attempt",
+            "Crystal Dynamics",
+            "the Cold War (1947\u201391)",
+            "Aloe Vera of America",
+            "New York and New Jersey campaign",
+            "yes",
+            "1998",
+            "To SquarePants or Not to SquarePants",
+            "no",
+            "1941",
+            "Chinese Coffee",
+            "six",
+            "Stedelijk Museum Amsterdam",
+            "Daredevil",
+            "Marktown",
+            "World War II",
+            "Virginia",
+            "Captain Hans Geering",
+            "no",
+            "Vivendi S.A.",
+            "Lester",
+            "The Bears",
+            "Molly Hatchet",
+            "Ronald Shusett",
+            "2004",
+            "2 March 1972",
+            "Matthew Ryan Kemp",
+            "Martha Coolidge",
+            "in the village of Aldenham",
+            "London",
+            "Loughborough University",
+            "Hawaii County",
+            "22 November",
+            "cleaning, catering and security",
+            "Bath, Maine",
+            "Indiana University",
+            "You're Next",
+            "Frederick Alexander",
+            "Papa Gino's"
+        ],
+        "full_results": [
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the main figures mentioned in the context and their roles.",
+                        "intermediate_answer": "Ross Richie, Matt Groening, Ian Boothby, Vera Brosgol, Steve Purcell, Chuck BB, and Will Eisner."
+                    },
+                    {
+                        "explanation": "Determine the first character mentioned in the question: 'American cartoonist, writer, producer, animator, and voice actor'.",
+                        "intermediate_answer": "Matt Groening."
+                    },
+                    {
+                        "explanation": "Identify who the second character is from the question: 'this multiple Shuster Award, Harvey Award and Eisner Award nominee and an Eisner Award\u2013winning comic book creator'.",
+                        "intermediate_answer": "Ian Boothby."
+                    },
+                    {
+                        "explanation": "Verify the details about Matt Groening to ensure he fits the description in the question.",
+                        "intermediate_answer": "Yes, Matt Groening is a cartoonist, writer, producer, animator, and voice actor."
+                    },
+                    {
+                        "explanation": "Verify the details about Ian Boothby to ensure he fits the description in the question.",
+                        "intermediate_answer": "Yes, Ian Boothby is a multiple award nominee and an Eisner Award-winning comic book creator."
+                    }
+                ],
+                "final_answer": "Matt Groening and Ian Boothby."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, identify the band that Frankie LaRocka played drums for according to the context. The context mentions Bon Jovi as an American rock band formed in Sayreville, New Jersey, and that Frankie LaRocka was a member of Bon Jovi at various stages during his career as a musician.",
+                        "intermediate_answer": "Bon Jovi"
+                    },
+                    {
+                        "explanation": "Next, extract the formation year of Bon Jovi from the context. The context states that Bon Jovi was formed in 1983.",
+                        "intermediate_answer": "1983"
+                    },
+                    {
+                        "explanation": "Finally, consolidate the information to answer the question directly by confirming the year stated.",
+                        "intermediate_answer": "1983"
+                    }
+                ],
+                "final_answer": "1983"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The first step is to analyze the context about Velvetpark and Shape magazine. We need to determine the target audience for each publication.",
+                        "intermediate_answer": "Velvetpark focuses on lesbian and feminist culture."
+                    },
+                    {
+                        "explanation": "Next, we look at the description of Velvetpark. The context suggests that it is a platform for lesbian and queer-identified women, featuring music, literature, theater, and social activism.",
+                        "intermediate_answer": "Velvetpark features content about lesbian and queer culture."
+                    },
+                    {
+                        "explanation": "Now, let's analyze Shape magazine. The context mentions that Shape is focused on fitness and health for women but does not specifically indicate a target for lesbian or queer-identified women.",
+                        "intermediate_answer": "Shape magazine is generally for women's fitness and health."
+                    },
+                    {
+                        "explanation": "We need to compare the two. Given that Velvetpark is explicitly described as catering to lesbian and queer-identified women, while Shape magazine focuses on women's fitness without specific reference to queer identities, we consider which one aligns more closely with the question.",
+                        "intermediate_answer": "Velvetpark targets a lesbian and queer-identified female readership more directly."
+                    },
+                    {
+                        "explanation": "Based on the analysis, we conclude that Velvetpark is explicitly for a lesbian and queer audience, while Shape magazine does not cater specifically to this demographic, asserting that Velvetpark is the clearer answer to the question.",
+                        "intermediate_answer": "Velvetpark is written for a lesbian and queer-identified female readership, unlike Shape."
+                    }
+                ],
+                "final_answer": "Velvetpark is written more for a lesbian and queer-identified female readership."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the single 'Revenge' by XXXTentacion and find out its details in the context.",
+                        "intermediate_answer": "'Revenge' is a single by XXXTentacion released by Empire Distribution."
+                    },
+                    {
+                        "explanation": "Look up Empire Distribution in the context to find its location.",
+                        "intermediate_answer": "EMPIRE is based in San Francisco, California with offices in New York City and Atlanta."
+                    },
+                    {
+                        "explanation": "Since 'Revenge' is distributed by Empire Distribution, we can confirm the company's location from the previous step.",
+                        "intermediate_answer": "Empire Distribution is based in San Francisco, CA."
+                    }
+                ],
+                "final_answer": "San Francisco, California"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We start by examining the provided context, which contains information about different types of magazines, including 'Woman's Era' and 'Naj'.",
+                        "intermediate_answer": "Identify the magazines."
+                    },
+                    {
+                        "explanation": "Next, we specifically look at the details presented for 'Woman's Era'. It states that it is a fortnightly women's interest magazine published in English in India. This classification indicates its focus on topics relevant to women.",
+                        "intermediate_answer": "'Woman's Era' is a women's interest magazine."
+                    },
+                    {
+                        "explanation": "Now, we analyze the details for 'Naj'. The context specifies that 'Naj' is a Polish language fortnightly lifestyle and women's magazine published in Warsaw, Poland. The mention of 'lifestyle' alongside 'women's magazine' suggests that it covers various topics that interest women, similar to 'Woman's Era'.",
+                        "intermediate_answer": "'Naj' is a lifestyle and women's magazine."
+                    },
+                    {
+                        "explanation": "We deduce that both magazines cater to female audiences, with 'Woman's Era' focusing on women's interests broadly and 'Naj' incorporating lifestyle elements into its content targeted at women.",
+                        "intermediate_answer": "Both magazines are aimed at women."
+                    },
+                    {
+                        "explanation": "Finally, we combine the information to classify both magazines as women-oriented publications, with 'Woman's Era' specifically stated to be a women's interest magazine and 'Naj' being a lifestyle and women's magazine.",
+                        "intermediate_answer": "'Woman's Era' is a women's interest magazine; 'Naj' is a lifestyle and women's magazine."
+                    }
+                ],
+                "final_answer": "'Woman's Era' is a women's interest magazine and 'Naj' is a lifestyle and women's magazine."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context provides multiple sports-related biographies, where I must identify the basketball player known by the nickname 'Scat'.",
+                        "intermediate_answer": "Identifying athletes who have nicknames."
+                    },
+                    {
+                        "explanation": "The definitive clue in the context indicates that James Carlos 'Jimmy' McNatt was nicknamed 'Scat'.",
+                        "intermediate_answer": "I have found the nickname of Jimmy McNatt."
+                    },
+                    {
+                        "explanation": "Next, the context mentions that Jimmy McNatt was an All-American basketball player for the Oklahoma Sooners and led the team to victory in the first-ever NCAA Final Four in 1939.",
+                        "intermediate_answer": "Connecting the player to the event he led."
+                    },
+                    {
+                        "explanation": "Since the question specifically asks about the team led to victory in 1939 by the mentioned player, it is clear that it was the Oklahoma Sooners.",
+                        "intermediate_answer": "Final identification of the team."
+                    }
+                ],
+                "final_answer": "Oklahoma Sooners"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the organization that Nicolae Titulescu served two terms as president. The only organization mentioned in the context that aligns with this description is the League of Nations, as it's stated that he held the position of President of the General Assembly of the League of Nations.",
+                        "intermediate_answer": "League of Nations"
+                    },
+                    {
+                        "explanation": "Next, I need to find the founding date of the League of Nations. The context provides a direct statement about its founding. It mentions that it was founded on 10 January 1920.",
+                        "intermediate_answer": "10 January 1920"
+                    },
+                    {
+                        "explanation": "Therefore, I can combine my findings to answer the question. I have identified both the organization (League of Nations) and the relevant date of its founding (10 January 1920).",
+                        "intermediate_answer": "The founding date of the League of Nations."
+                    }
+                ],
+                "final_answer": "10 January 1920"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context provides information about various boxing matches involving Muhammad Ali and other fighters.",
+                        "intermediate_answer": "Look for the match that occurred after the Fight of the Century."
+                    },
+                    {
+                        "explanation": "The Fight of the Century refers to the notable match between Muhammad Ali and Joe Frazier that took place in 1971.",
+                        "intermediate_answer": "Identify the next boxing match Ali had after this event."
+                    },
+                    {
+                        "explanation": "The following sentence in the context indicates that Ali fought Jimmy Ellis in Houston on July 26, 1971, after the Fight of the Century.",
+                        "intermediate_answer": "Ali's next fight was against Jimmy Ellis."
+                    }
+                ],
+                "final_answer": "Jimmy Ellis"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to determine the birth years of both Lucie Hradeck\u00e1 and Raffaella Reggi as provided in the context.",
+                        "intermediate_answer": "Lucie Hradeck\u00e1 was born on May 21, 1985, and Raffaella Reggi was born on November 27, 1965."
+                    },
+                    {
+                        "explanation": "Now let's compare the two birth years. Lucie Hradeck\u00e1 was born in 1985, while Raffaella Reggi was born in 1965. Since 1965 is before 1985, Raffaella Reggi was born first.",
+                        "intermediate_answer": "Raffaella Reggi was born before Lucie Hradeck\u00e1."
+                    }
+                ],
+                "final_answer": "Raffaella Reggi was born first."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we need to identify which team Kent Baer is associated with in the provided context.",
+                        "intermediate_answer": "Kent Baer is mentioned as the defensive coordinator for the UNLV Rebels."
+                    },
+                    {
+                        "explanation": "Next, we must find information about the UNLV Rebels football team to determine where they play their home games.",
+                        "intermediate_answer": "The UNLV Rebels football team represents the University of Nevada, Las Vegas."
+                    },
+                    {
+                        "explanation": "Looking further into the details on the UNLV Rebels, we find that their games are played at Sam Boyd Stadium.",
+                        "intermediate_answer": "The team's home games are played at Sam Boyd Stadium."
+                    }
+                ],
+                "final_answer": "Sam Boyd Stadium"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "To answer the question, we will first locate information specifically related to 'Wolf and Sheep' in the context provided.",
+                        "intermediate_answer": "Look for details about 'Wolf and Sheep'."
+                    },
+                    {
+                        "explanation": "In the context, there is a specific sentence mentioning 'Wolf and Sheep' stating it was screened in the Directors' Fortnight at the 2016 Cannes Film Festival.",
+                        "intermediate_answer": "Identify the film festival for 'Wolf and Sheep'."
+                    },
+                    {
+                        "explanation": "We confirm that 'Wolf and Sheep' was indeed shown at the 2016 Cannes Film Festival, as per the information extracted from the sentences related to the film in the context.",
+                        "intermediate_answer": "Cannes Film Festival is mentioned."
+                    }
+                ],
+                "final_answer": "2016 Cannes Film Festival"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We start with the question, which asks us to identify a Fayette County, Kentucky airport related to Flower Alley and the fate of its breeder.",
+                        "intermediate_answer": "Identify the airport linked to Flower Alley's breeder."
+                    },
+                    {
+                        "explanation": "The context mentions that Flower Alley was bred at Bona Terra Farms by George Brunacini, who died in the crash of Comair Flight 5191.",
+                        "intermediate_answer": "The breeder of Flower Alley is George Brunacini."
+                    },
+                    {
+                        "explanation": "Next, we look for the airport mentioned in the same context as the accident, specifically where George Brunacini was killed.",
+                        "intermediate_answer": "Comair Flight 5191 crashed at Blue Grass Airport."
+                    },
+                    {
+                        "explanation": "Now we confirm that Blue Grass Airport is indeed in Fayette County, Kentucky.",
+                        "intermediate_answer": "Blue Grass Airport is in Fayette County, Kentucky."
+                    },
+                    {
+                        "explanation": "Finally, we conclude by linking Flower Alley, George Brunacini, and Blue Grass Airport together to answer the initial question directly.",
+                        "intermediate_answer": "The airport is Blue Grass Airport."
+                    }
+                ],
+                "final_answer": "Blue Grass Airport"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for the building opposite the ceremonial meeting place of the Accession Council in the UK. We need to identify what the Accession Council is and where it convenes.",
+                        "intermediate_answer": "Accession Council meets at St James's Palace."
+                    },
+                    {
+                        "explanation": "Next, we look for information in the context regarding the location of St James's Palace and any nearby buildings or landmarks.",
+                        "intermediate_answer": "St James's Palace is identified as the ceremonial meeting place of the Accession Council."
+                    },
+                    {
+                        "explanation": "According to the context, Mark Masons' Hall, which is the headquarters of The Grand Lodge of Mark Master Masons of England and Wales, is located in 86 St James's Street in central London, directly opposite St James's Palace.",
+                        "intermediate_answer": "Mark Masons' Hall is opposite St James's Palace."
+                    },
+                    {
+                        "explanation": "Thus, since we have established the proximity of Mark Masons' Hall to the ceremonial meeting place, we conclude with that information.",
+                        "intermediate_answer": "Mark Masons' Hall is opposite the Accession Council."
+                    }
+                ],
+                "final_answer": "Mark Masons' Hall"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about a specific characteristic of a character from P.L. Travers's third book in the 'Mary Poppins' series.",
+                        "intermediate_answer": "Character in 'Mary Poppins Opens the Door'"
+                    },
+                    {
+                        "explanation": "The title of the third book is 'Mary Poppins Opens the Door'. I need to identify the type of character featured in this book.",
+                        "intermediate_answer": "Type of character in the book is Mary Poppins."
+                    },
+                    {
+                        "explanation": "The context mentions that Mary Poppins is the protagonist across all books in the series and describes her as a magical English nanny.",
+                        "intermediate_answer": "Mary Poppins is a magical English nanny."
+                    },
+                    {
+                        "explanation": "Since all books in the 'Mary Poppins' series focus on this character and she is the titular character in the third book as well, the answer is confirmed.",
+                        "intermediate_answer": "The character featured is indeed a magical nanny."
+                    }
+                ],
+                "final_answer": "A magical English nanny."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question is asking for a specific famous bhavageet (a form of Marathi emotional poetry set to music) sung by Arun Date.",
+                        "intermediate_answer": "Identify a well-known bhavageet associated with Arun Date."
+                    },
+                    {
+                        "explanation": "In the context provided, Arun Date is recognized for his contribution to the genre of bhavageet and one of his famous songs was mentioned.",
+                        "intermediate_answer": "Refer to the information that mentions 'Shukratara by Date'."
+                    },
+                    {
+                        "explanation": "The context states that 'Shukratara by Date' was adjudged as the song of the month by a Mumbai Radio Station in 1962, indicating it was popular during that time.",
+                        "intermediate_answer": "Determine that 'Shukratara' is considered a significant song within Arun Date's repertoire."
+                    },
+                    {
+                        "explanation": "Given the previous statements, it's evident that 'Shukratara' is not only known but is also regarded as one of the most popular songs in contemporary Marathi culture.",
+                        "intermediate_answer": "Conclude that 'Shukratara' is the famous bhavageet by Arun Date."
+                    }
+                ],
+                "final_answer": "Shukratara"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to identify which book inspired the title of the CD/DVD \"Here At The End Of All Things\".",
+                        "intermediate_answer": "Identify the book related to the title."
+                    },
+                    {
+                        "explanation": "The description of \"Here At The End Of All Things\" mentions that the title comes from a quote from the book \"The Lord of the Rings: The Return of the King\".",
+                        "intermediate_answer": "The title is from J.R.R. Tolkien's book."
+                    },
+                    {
+                        "explanation": "I need to identify the author of the book \"The Lord of the Rings: The Return of the King\" to answer the question accurately.",
+                        "intermediate_answer": "The author of \"The Lord of the Rings: The Return of the King\"."
+                    },
+                    {
+                        "explanation": "J.R.R. Tolkien is widely known as the author of \"The Lord of the Rings\" series.",
+                        "intermediate_answer": "J.R.R. Tolkien is the author."
+                    }
+                ],
+                "final_answer": "J.R.R. Tolkien"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the American novelist who won the Nobel Prize in Literature in 1954. From the context provided, it mentions Ernest Hemingway as the American novelist who fits this description.",
+                        "intermediate_answer": "Ernest Hemingway"
+                    },
+                    {
+                        "explanation": "Next, I need to determine if there is a contest mentioned in the context that pays homage to Ernest Hemingway. I see the International Imitation Hemingway Competition is referenced as a contest that started as a promotional gag to honor him.",
+                        "intermediate_answer": "International Imitation Hemingway Competition"
+                    },
+                    {
+                        "explanation": "I should confirm that the International Imitation Hemingway Competition is located in California. The context states it began in Century City, California.",
+                        "intermediate_answer": "Contest is located in California and pays homage to Hemingway."
+                    },
+                    {
+                        "explanation": "Finally, I can combine all the information. The contest in California that pays homage to Ernest Hemingway, the American novelist who won the Nobel Prize in Literature in 1954, is indeed the International Imitation Hemingway Competition.",
+                        "intermediate_answer": "Confirming the final answer."
+                    }
+                ],
+                "final_answer": "International Imitation Hemingway Competition"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for the lead vocalist of Maroon 5's sixth studio album. To answer this, I need to identify the lead vocalist as mentioned in the context.",
+                        "intermediate_answer": "The question is about the lead vocalist of Maroon 5."
+                    },
+                    {
+                        "explanation": "From the provided context, it's stated that Maroon 5 is an American pop rock band, and it lists its current members, including the lead vocalist, Adam Levine.",
+                        "intermediate_answer": "Maroon 5 is a pop rock band that has Adam Levine as its lead vocalist."
+                    },
+                    {
+                        "explanation": "The context does not specifically separate the lead vocalist from the album, but since Adam Levine is the lead vocalist of the band, he would also be the lead vocalist for their sixth studio album.",
+                        "intermediate_answer": "Adam Levine is the lead vocalist for Maroon 5."
+                    },
+                    {
+                        "explanation": "The sixth studio album, mentioned as being scheduled for release on November 3, 2017, is the eponymous album. Since Adam Levine is the lead vocalist of Maroon 5, he is also the lead vocalist on this album.",
+                        "intermediate_answer": "Since Adam Levine leads the band, he is also the lead vocalist for the sixth studio album."
+                    }
+                ],
+                "final_answer": "Adam Levine"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question refers to VIVA Media AG's change of name in 2004. To answer it, we must clearly define what the new name is that VIVA Media AG adopted after the change.",
+                        "intermediate_answer": "VIVA Media GmbH"
+                    },
+                    {
+                        "explanation": "Next, an acronym typically stands for the first letters of a series of words. Since the question asks about an acronym associated with the new name, we need to determine whether 'GmbH' is an acronym or relates to the company type instead.",
+                        "intermediate_answer": "GmbH is not an acronym for a phrase that describes the company but rather indicates the legal structure of the company."
+                    },
+                    {
+                        "explanation": "The term GmbH stands for 'Gesellschaft mit beschr\u00e4nkter Haftung', which translates to 'company with limited liability' in English. It's important, however, to clarify that this doesn't convey a new brand or business name, but rather the legal format of the business.",
+                        "intermediate_answer": "GmbH means 'company with limited liability'."
+                    },
+                    {
+                        "explanation": "Since the name change from VIVA Media AG to VIVA Media GmbH is confirmed, the acronym 'AG' stands for 'Aktiengesellschaft', a type of corporation in Germany, while 'GmbH' indicates the company's legal structure as a limited liability company.",
+                        "intermediate_answer": "VIVA Media AG changed to VIVA Media GmbH."
+                    }
+                ],
+                "final_answer": "GmbH stands for 'Gesellschaft mit beschr\u00e4nkter Haftung'."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Start by identifying Sadok Sassi's professional career and accomplishments based on the context. His background indicates that he played for the Tunisian national football team.",
+                        "intermediate_answer": "Sadok Sassi played for the Tunisia national football team."
+                    },
+                    {
+                        "explanation": "Next, check the additional context provided about the Tunisia national football team's history in the World Cup. Look for any mention of the years they participated in the World Cup.",
+                        "intermediate_answer": "The Tunisia national football team first qualified for the FIFA World Cup in 1978."
+                    },
+                    {
+                        "explanation": "To finalize, confirm that Tunisia indeed made its first World Cup appearance in the mentioned year and that Sadok Sassi, being a player, is linked to that team.",
+                        "intermediate_answer": "Sadok Sassi played for a national team (Tunisia) that made its first World Cup in 1978."
+                    }
+                ],
+                "final_answer": "1978"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to identify which of the films listed is from 1940 and features John Arledge.",
+                        "intermediate_answer": "Find all 1940 films."
+                    },
+                    {
+                        "explanation": "Among the films listed in the context, I review the sentences to see which films are noted to have been released in 1940.",
+                        "intermediate_answer": "Mexican Spitfire Out West and He Married His Wife are both 1940 films."
+                    },
+                    {
+                        "explanation": "Next, I check if John Arledge is mentioned as part of the cast in either of the 1940 films.",
+                        "intermediate_answer": "John Arledge is mentioned in the context with County Fair, which is a 1937 film, but not in either of the specific 1940 films."
+                    },
+                    {
+                        "explanation": "I need to confirm if John Arledge is part of the cast for either of the 1940 films.",
+                        "intermediate_answer": "I only find him listed for County Fair and not for Mexican Spitfire Out West or He Married His Wife."
+                    },
+                    {
+                        "explanation": "Next, I will check the directors of the identified 1940 films where John Arledge might have appeared.",
+                        "intermediate_answer": "Mexican Spitfire Out West was directed by Leslie Goodwins; He Married His Wife was directed by Roy Del Ruth."
+                    },
+                    {
+                        "explanation": "I need to conclude which director corresponds with the film John Arledge is related to.",
+                        "intermediate_answer": "Since Arledge is not listed for the 1940 films, I deduce that John Arledge appeared in the films earlier than 1940."
+                    },
+                    {
+                        "explanation": "Ultimately I will provide the answer based on the data available regarding John Arledge in a 1940 film.",
+                        "intermediate_answer": "The directors of the 1940 films where he is not involved."
+                    }
+                ],
+                "final_answer": "He Married His Wife was directed by Roy Del Ruth, but John Arledge did not appear in either."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we need to identify who Kenneth L. Gile is based on the context provided.",
+                        "intermediate_answer": "Kenneth L. Gile is the Chief Operating Officer of Flydubai."
+                    },
+                    {
+                        "explanation": "Next, we must determine the airline that Kenneth L. Gile is associated with, which is Flydubai.",
+                        "intermediate_answer": "Flydubai is the airline for which Kenneth L. Gile is the Chief Operating Officer."
+                    },
+                    {
+                        "explanation": "The context also describes Flydubai's operational details, including its head office.",
+                        "intermediate_answer": "Flydubai's head office is in Terminal 2 of Dubai International Airport."
+                    },
+                    {
+                        "explanation": "Having identified Flydubai's base of operations and its location, we can conclude the answer to the question.",
+                        "intermediate_answer": "The head office of Flydubai is in Dubai International Airport."
+                    }
+                ],
+                "final_answer": "Dubai International Airport"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "From the context, we identify that the protagonist who secretly loves and marries a member of the rival house is 'Romeo Montague'.",
+                        "intermediate_answer": "The protagonist is Romeo Montague."
+                    },
+                    {
+                        "explanation": "The rival house mentioned is the Capulet family, and Romeo marries Juliet Capulet, which indicates that Romeo's love interest is from that house.",
+                        "intermediate_answer": "Romeo loves Juliet, who is from the Capulet family."
+                    },
+                    {
+                        "explanation": "Next, we analyze the mention of Benvolio. Benvolio is defined as Romeo's cousin and serves as an unsuccessful peacemaker between families. However, he does not directly slay anyone in the original play.",
+                        "intermediate_answer": "Benvolio is not a slayer in 'Romeo and Juliet'."
+                    },
+                    {
+                        "explanation": "Determining which character Benvolio might slay is tricky since he aims for peace; however, no direct slaying is stated in the context for Benvolio against anyone. Instead, Juliet, whom Romeo loves, ends up dead due to the tragic circumstances surrounding their feuding families, which leads to discussion about her death.",
+                        "intermediate_answer": "Benvolio does not slay anyone; does not connect to Benvolio slaying any character."
+                    },
+                    {
+                        "explanation": "Lastly, I piece together the question. Since the protagonist is clearly Romeo who loves Juliet and there's an implication about a fight or a duel context usually surrounding Benvolio, which centers around the family feud, and reflects on the tragic elements.",
+                        "intermediate_answer": "The question needs clarification but ultimately refers back to Juliet as the character married to Romeo."
+                    }
+                ],
+                "final_answer": "Juliet Capulet"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The trophy in question is referred to as 'The Little Brown Stein'.",
+                        "intermediate_answer": "The trophy is named 'Little Brown Stein'."
+                    },
+                    {
+                        "explanation": "The term 'stein' is often associated with beer mugs, which are traditionally made in European cultures, notably in Germany.",
+                        "intermediate_answer": "The term 'stein' indicates a relation to beer mugs, a tradition in European culture."
+                    },
+                    {
+                        "explanation": "Therefore, since the term 'stein' is derived from German, the culture related to this trophy is German.",
+                        "intermediate_answer": "The culture related to the trophy is German."
+                    },
+                    {
+                        "explanation": "Since the trophy is specifically named after a 'stein', it is clear that the connection to European culture is through its association with Germany.",
+                        "intermediate_answer": "The connection is specifically to German culture."
+                    }
+                ],
+                "final_answer": "German culture"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about the actress who voiced Juliet Starling in Lollipop Chainsaw, indicating that the answer will involve recognizing which actress did the voice work.",
+                        "intermediate_answer": "Tara Strong is the voice actress for Juliet Starling."
+                    },
+                    {
+                        "explanation": "From the context, we identify Tara Strong as the Canadian-American actress who has voiced multiple roles in animated series and is also connected to the Teen Titans franchise.",
+                        "intermediate_answer": "Tara Strong is confirmed to have a voice role in 'Teen Titans Go!'"
+                    },
+                    {
+                        "explanation": "The final task is to explicitly determine which spinoff series from the Teen Titans Tara Strong contributed her voice work, based on the qualifiers given in the question.",
+                        "intermediate_answer": "The spinoff series is 'Teen Titans Go!'"
+                    },
+                    {
+                        "explanation": "By combining all previous steps, we conclude that the question's requirements are met by understanding that Lollipop Chainsaw features Juliet Starling, voiced by Tara Strong, who is associated with 'Teen Titans Go!'.",
+                        "intermediate_answer": "The spinoff series is 'Teen Titans Go!'"
+                    }
+                ],
+                "final_answer": "Teen Titans Go!"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context states that the Chicken dance was primarily used as a change of pace step.",
+                        "intermediate_answer": "The Chicken dance is a change of pace."
+                    },
+                    {
+                        "explanation": "It is mentioned that the Chicken dance was used while doing another dance called the Twist.",
+                        "intermediate_answer": "The Twist is a dance that the Chicken dance was used alongside."
+                    },
+                    {
+                        "explanation": "Since the Chicken dance is specifically referred to as a change of pace step while performing the Twist, it implies that the Twist is the dance that precedes or accompanies the Chicken dance.",
+                        "intermediate_answer": "Therefore, the Twist is the dance that the Chicken serves as a change of pace for."
+                    }
+                ],
+                "final_answer": "The Twist"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for a specific brewery mentioned in the context that is related to the comparison between large corporate breweries and smaller craft breweries.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "To find the answer, we should look for a brewery that is characterized as being smaller or one that emphasizes craft brewing, particularly one based in Escondido, California.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "From the context, it states that Stone Brewing is headquartered in Escondido, California and indicates that it is the largest brewery in Southern California.",
+                        "intermediate_answer": "Stone Brewing"
+                    },
+                    {
+                        "explanation": "While Stone Brewing is large compared to many others, it is positioned in the context of being compared to large corporations like Anheuser-Busch and Miller, making it relevant to the question about 'small breweries'.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "Thus, the answer to the question is 'Stone Brewing', as it is mentioned in the context and fits the criteria of being highlighted in the discussion of craft versus corporate breweries.",
+                        "intermediate_answer": ""
+                    }
+                ],
+                "final_answer": "Stone Brewing"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about a series of novels that references numerous locations and incorporates multiple genres.",
+                        "intermediate_answer": "The Dark Tower (series)"
+                    },
+                    {
+                        "explanation": "From the context, the sentence mentions 'The Dark Tower' series by Stephen King as containing references to numerous locations.",
+                        "intermediate_answer": "The Dark Tower (series)"
+                    },
+                    {
+                        "explanation": "The description of 'The Dark Tower' series includes that it incorporates themes from genres such as dark fantasy, science fantasy, horror, and Western.",
+                        "intermediate_answer": "The Dark Tower (series)"
+                    }
+                ],
+                "final_answer": "The Dark Tower (series)"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I will identify the professions of both John Lanchester and Alan Dean Foster based on the provided context.",
+                        "intermediate_answer": "Both are writers."
+                    },
+                    {
+                        "explanation": "Next, I will confirm if the context mentions the specific profession for both individuals. The context states that Alan Dean Foster is an American writer of fantasy and science fiction.",
+                        "intermediate_answer": "Alan Dean Foster is a writer."
+                    },
+                    {
+                        "explanation": "The context also includes information about John Lanchester, indicating that he is a British journalist and novelist.",
+                        "intermediate_answer": "John Lanchester is also a writer."
+                    },
+                    {
+                        "explanation": "Both John Lanchester's and Alan Dean Foster's professional titles confirm that they share the same type of profession.",
+                        "intermediate_answer": "Both are writers."
+                    }
+                ],
+                "final_answer": "They are both writers."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we need to determine the films that feature both Stephanie Kay Panabaker and Danielle Nicole Panabaker together.",
+                        "intermediate_answer": "Look for films that include both Kay Panabaker and Danielle Panabaker."
+                    },
+                    {
+                        "explanation": "The context states that both sisters star in the Disney Channel Original Movie 'Read It and Weep'.",
+                        "intermediate_answer": "Identified 'Read It and Weep' as a film featuring both sisters."
+                    },
+                    {
+                        "explanation": "Look through the other films listed in the context to ensure no other films feature both sisters together.",
+                        "intermediate_answer": "Confirmed 'Read It and Weep' is the only film featuring both Danielle and Kay."
+                    },
+                    {
+                        "explanation": "Double check the details regarding 'Read It and Weep' for additional confirmation of both sisters' participation.",
+                        "intermediate_answer": "In 'Read It and Weep', they play main roles."
+                    }
+                ],
+                "final_answer": "Read It and Weep"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The article 'Is Google Making Us Stupid?' by Nicholas G. Carr discusses the cognitive effects of the Internet, but it's specifically mentioned that it was expanded into a book later on.",
+                        "intermediate_answer": "The book expands on the article 'Is Google Making Us Stupid?'"
+                    },
+                    {
+                        "explanation": "The context states that 'The Shallows: What the Internet Is Doing to Our Brains' is the book that expanded on Carr's original article.",
+                        "intermediate_answer": "The book is 'The Shallows: What the Internet Is Doing to Our Brains'."
+                    },
+                    {
+                        "explanation": "It further mentions that 'The Shallows' was a finalist for a prestigious award.",
+                        "intermediate_answer": "The book was a finalist for the 2011 Pulitzer Prize in General Nonfiction."
+                    },
+                    {
+                        "explanation": "Thus, integrating the steps, we can conclude the specific award the book was nominated for.",
+                        "intermediate_answer": "It was a finalist for the Pulitzer Prize."
+                    }
+                ],
+                "final_answer": "Pulitzer Prize in General Nonfiction"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, let's identify who played the role of 'Celene' in the film 'Walk All Over Me'. The context indicates that 'Celene' was played by Tricia Helfer.",
+                        "intermediate_answer": "Tricia Helfer played 'Celene' in 'Walk All Over Me'."
+                    },
+                    {
+                        "explanation": "Next, we need to find out what role Tricia Helfer voices in the 'Starcraft 2' trilogy as mentioned in the context. The context states that she voiced Sarah Kerrigan, the Queen of Blades, in 'Starcraft 2'.",
+                        "intermediate_answer": "Tricia Helfer voices Sarah Kerrigan in 'Starcraft 2'."
+                    },
+                    {
+                        "explanation": "Now we can combine the findings from the previous steps to answer the original question about the connection between Tricia Helfer, her role in 'Walk All Over Me', and her voice role in 'Starcraft 2'.",
+                        "intermediate_answer": "The role of 'Celene' in 'Walk All Over Me' was played by Tricia Helfer, who voices Sarah Kerrigan in 'Starcraft 2'."
+                    }
+                ],
+                "final_answer": "Sarah Kerrigan"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "To answer the question, we first look for specific information about 'Opry Mills' in the provided context. Each entry may refer to a separate aspect related to Nashville, including venues, events, or other attractions.",
+                        "intermediate_answer": "Reviewing the context, we find a sentence specifically dedicated to Opry Mills."
+                    },
+                    {
+                        "explanation": "The context sentence regarding Opry Mills states that it is a 'super-regional shopping mall' and mentions its ownership and location in Nashville, as well as its historical background related to a theme park.",
+                        "intermediate_answer": "The description highlights that Opry Mills is primarily a shopping destination."
+                    },
+                    {
+                        "explanation": "We also note its ownership by Simon Property Group and the significance of its opening site which was previously occupied by the Opryland USA theme park\u2014this adds historical and cultural context.",
+                        "intermediate_answer": "Opry Mills is more than just a shopping mall; it has a background that connects it to Nashville's entertainment history."
+                    },
+                    {
+                        "explanation": "Finally, we consolidate this information to form a clear and concise definition of Opry Mills.",
+                        "intermediate_answer": "Summarizing the main points leads us to a fulfilled understanding of what Opry Mills encompasses."
+                    }
+                ],
+                "final_answer": "Opry Mills is a super-regional shopping mall located in Nashville, Tennessee, formerly the site of the Opryland USA theme park."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the religious Utopian group mentioned in the context.",
+                        "intermediate_answer": "Oneida Community"
+                    },
+                    {
+                        "explanation": "Note that the Oneida Community dissolved in 1881 and eventually became a giant silverware company.",
+                        "intermediate_answer": "Oneida Limited"
+                    },
+                    {
+                        "explanation": "Recognize that Pierrepont Noyes was mentioned in the context as a head of Oneida Limited and was also part of the Oneida Community.",
+                        "intermediate_answer": "Pierrepont Noyes was associated with Oneida Limited."
+                    },
+                    {
+                        "explanation": "Since both the company and the community are related and the question asks for the giant silverware company that started from the religious group, we can conclude the answer.",
+                        "intermediate_answer": "Oneida Limited"
+                    }
+                ],
+                "final_answer": "Oneida Limited"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify which sentences mention CBS-affiliated stations.",
+                        "intermediate_answer": "The sentences related to CBS-affiliated stations include the description of KXII."
+                    },
+                    {
+                        "explanation": "Read the specific sentence that describes KXII.",
+                        "intermediate_answer": "KXII is described as a CBS-affiliated television station serving the Ada\u2013Sherman media market, which includes Pontotoc County."
+                    },
+                    {
+                        "explanation": "Confirm that KXII's coverage area includes Pontotoc County, Oklahoma.",
+                        "intermediate_answer": "The context specifically states that KXII serves the Ada-Sherman media market, which is relevant to Pontotoc County."
+                    },
+                    {
+                        "explanation": "Conclude that KXII is the CBS-affiliated station serving the region of interest.",
+                        "intermediate_answer": "KXII is indeed the CBS-affiliated station that serves Pontotoc County, Oklahoma."
+                    }
+                ],
+                "final_answer": "KXII"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks which facility was founded in Missouri between Discovery Zone and Valentino's.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "Looking at the context provided, Valentino's is described as a regional Italian restaurant chain based in Lincoln, Nebraska, which indicates that it was founded in Nebraska, not Missouri.",
+                        "intermediate_answer": "Valentino's was founded in Nebraska."
+                    },
+                    {
+                        "explanation": "Next, examining the information regarding Discovery Zone, it states that the first location of Discovery Zone was opened in Kansas City, Missouri, in October 1989.",
+                        "intermediate_answer": "Discovery Zone was founded in Missouri."
+                    },
+                    {
+                        "explanation": "Since Valentino's is clearly linked to Nebraska and Discovery Zone is stated to have been founded in Kansas City, Missouri, we can conclude from our findings.",
+                        "intermediate_answer": "Discovery Zone was founded in Missouri."
+                    }
+                ],
+                "final_answer": "Discovery Zone was founded in Missouri."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I will analyze the context to find the musical involvement of Jonny Craig.",
+                        "intermediate_answer": "Jonny Craig has been the lead vocalist for multiple bands."
+                    },
+                    {
+                        "explanation": "Next, I will identify the bands that Jonny Craig has been a part of according to the context information provided.",
+                        "intermediate_answer": "Jonny Craig was in Dance Gavin Dance, Emarosa, Ghost Runner on Third, Slaves, and westerHALTS."
+                    },
+                    {
+                        "explanation": "Now, I will count the number of bands Jonny Craig has been in. He has been in 5 bands.",
+                        "intermediate_answer": "5 bands for Jonny Craig."
+                    },
+                    {
+                        "explanation": "Next, I will examine the context to find out the musical history of Pete Doherty.",
+                        "intermediate_answer": "Pete Doherty has been a part of The Libertines and Babyshambles."
+                    },
+                    {
+                        "explanation": "I will then identify other musical projects or associations related to Pete Doherty from the context.",
+                        "intermediate_answer": "Pete Doherty is associated with the band Dirty Pretty Things."
+                    },
+                    {
+                        "explanation": "Now, I will count the number of significant bands Pete Doherty has been in based on the context.",
+                        "intermediate_answer": "Doherty has been a member of The Libertines, Babyshambles, and Dirty Pretty Things."
+                    },
+                    {
+                        "explanation": "Counting these, Pete Doherty has been a member of 3 bands.",
+                        "intermediate_answer": "3 bands for Pete Doherty."
+                    },
+                    {
+                        "explanation": "Finally, I will compare the number of bands each has participated in.",
+                        "intermediate_answer": "Jonny Craig: 5 bands vs Pete Doherty: 3 bands."
+                    }
+                ],
+                "final_answer": "Jonny Craig has been a member of more bands."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to identify which creature from American folklore is mentioned in the context and relates specifically to the year 1964.",
+                        "intermediate_answer": "The Dewey Lake Monster is related to the year 1964."
+                    },
+                    {
+                        "explanation": "The Dewey Lake Monster is described as a bipedal creature that gained notoriety in June 1964 after several reported sightings.",
+                        "intermediate_answer": "The Dewey Lake Monster gained notoriety in 1964."
+                    },
+                    {
+                        "explanation": "By confirming the details in the sentences that pertain to the Dewey Lake Monster, we establish that it is recognized for sightings that took place in the mentioned year.",
+                        "intermediate_answer": "The Dewey Lake Monster is the answer."
+                    }
+                ],
+                "final_answer": "The Dewey Lake Monster."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Check the information available in the context about the locations of Duke Energy and Affiliated Managers Group.",
+                        "intermediate_answer": "Duke Energy is headquartered in Charlotte, North Carolina."
+                    },
+                    {
+                        "explanation": "Determine the location of Affiliated Managers Group (AMG) based on the provided context.",
+                        "intermediate_answer": "Affiliated Managers Group is headquartered in Massachusetts."
+                    },
+                    {
+                        "explanation": "Compare the headquarters of both companies to determine if they share the same location.",
+                        "intermediate_answer": "No, Duke Energy is in North Carolina, whereas Affiliated Managers Group is in Massachusetts."
+                    }
+                ],
+                "final_answer": "No, Duke Energy is based in North Carolina, while Affiliated Managers Group is based in Massachusetts."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about a Celtic ruler who was born in AD 43 and ruled southeastern Britain before an empire's conquest.",
+                        "intermediate_answer": "Celtic ruler born in AD 43"
+                    },
+                    {
+                        "explanation": "Context mentions Togodumnus as a historical king of the Catuvellauni tribe during the time of the Roman conquest and identifies him with a legendary king.",
+                        "intermediate_answer": "Togodumnus was a king of the Catuvellauni."
+                    },
+                    {
+                        "explanation": "The context states that the Roman conquest of Britain began in AD 43 under Emperor Claudius, indicating that this was the key empire involved in conquering southeastern Britain.",
+                        "intermediate_answer": "The empire that conquered southeastern Britain is the Roman Empire."
+                    },
+                    {
+                        "explanation": "Since Togodumnus was a ruler at the time of the Roman conquest beginning in AD 43, it confirms he ruled right before this significant event.",
+                        "intermediate_answer": "Togodumnus ruled before the Roman Empire's conquest."
+                    },
+                    {
+                        "explanation": "Thus, we can combine the information gathered to directly answer the question.",
+                        "intermediate_answer": "Celtic ruler Togodumnus ruled before the Roman Empire's conquest."
+                    }
+                ],
+                "final_answer": "Roman Empire"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the films Ed Oxenbould is associated with from the context provided.",
+                        "intermediate_answer": "Ed Oxenbould appears in 'The Visit', 'Wildlife', and 'Paper Planes'."
+                    },
+                    {
+                        "explanation": "Focus on the specific film where Ed Oxenbould plays the character Tyler.",
+                        "intermediate_answer": "Ed Oxenbould plays Tyler in 'The Visit'."
+                    },
+                    {
+                        "explanation": "Determine who directed 'The Visit' based on the context.",
+                        "intermediate_answer": "'The Visit' was directed by M. Night Shyamalan."
+                    },
+                    {
+                        "explanation": "Confirm the famous status of the director M. Night Shyamalan.",
+                        "intermediate_answer": "M. Night Shyamalan is known for his significant contributions to the film industry, making him a famous director."
+                    }
+                ],
+                "final_answer": "M. Night Shyamalan"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we identify one of the supporting cast members of 'Sleepless in Seattle'. According to the context, the supporting cast includes Gaby Hoffmann.",
+                        "intermediate_answer": "Gaby Hoffmann"
+                    },
+                    {
+                        "explanation": "Next, we look for films that Gaby Hoffmann has appeared in, as mentioned in the context. She is noted for her roles in several films, including 'Field of Dreams', 'Uncle Buck', and 'Now and Then'.",
+                        "intermediate_answer": "Gaby Hoffmann appeared in 'Field of Dreams', 'Uncle Buck', and 'Now and Then'"
+                    },
+                    {
+                        "explanation": "Among those films, 'Now and Then' is another film that Gaby Hoffmann appeared in, which was mentioned in the context as one of her notable roles. Therefore, it can be considered an answer to the question.",
+                        "intermediate_answer": "Gaby Hoffmann appeared in 'Now and Then'."
+                    }
+                ],
+                "final_answer": "Gaby Hoffmann appeared in 'Now and Then'."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "To answer the question, I need to identify which band affiliated with Lyric Street Records covered the song 'If You Ever Get Lonely.'",
+                        "intermediate_answer": "Identify bands associated with Lyric Street Records."
+                    },
+                    {
+                        "explanation": "From the context, it mentions the song 'If You Ever Get Lonely' in the segment about Love and Theft, indicating that they covered it.",
+                        "intermediate_answer": "The song 'If You Ever Get Lonely' was covered by Love and Theft."
+                    },
+                    {
+                        "explanation": "Since Love and Theft is directly connected to Lyric Street Records, they fit the requirement of being affiliated with that record label.",
+                        "intermediate_answer": "Confirm that Love and Theft is affiliated with Lyric Street Records."
+                    }
+                ],
+                "final_answer": "Love and Theft"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify which railroad William Howard worked for according to the context.",
+                        "intermediate_answer": "William Howard worked for the Baltimore and Ohio Railroad."
+                    },
+                    {
+                        "explanation": "Next, I need to find the details of the Baltimore and Ohio Railroad's original line as described in the provided context.",
+                        "intermediate_answer": "The original line of the Baltimore and Ohio Railroad was from the port of Baltimore west to Sandy Hook."
+                    },
+                    {
+                        "explanation": "Now that I have the starting point and the direction of the original line, I can conclude where it was located.",
+                        "intermediate_answer": "The original line was located in Maryland."
+                    },
+                    {
+                        "explanation": "Lastly, I will summarize the findings into the final answer directly addressing the question.",
+                        "intermediate_answer": ""
+                    }
+                ],
+                "final_answer": "The original line of the Baltimore and Ohio Railroad was from the port of Baltimore to Sandy Hook, located in Maryland."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I start by identifying the key elements in the question, which is asking about another animation comedy created by the same person who created \"Wallace and Gromit\".",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "The creator of \"Wallace and Gromit\" is Nick Park, as mentioned in the context.",
+                        "intermediate_answer": "Nick Park is the creator."
+                    },
+                    {
+                        "explanation": "Next, I need to look for a comedy that involves animated zoo animals with a soundtrack of people's voices talking about their homes, as described in the question.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "In the context, I find the mention of \"Creature Comforts,\" which is described as a stop motion clay animation comedy mockumentary that matches animated zoo animals with a soundtrack of interviews about living conditions.",
+                        "intermediate_answer": "\"Creature Comforts\" is the animation comedy in question."
+                    },
+                    {
+                        "explanation": "Since \"Creature Comforts\" is confirmed to be created by Nick Park, it fits the criteria in the question perfectly.",
+                        "intermediate_answer": ""
+                    }
+                ],
+                "final_answer": "Creature Comforts"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for information about the playwright who lived from 1564-1616, and we can identify that this refers to William Shakespeare based on the context provided.",
+                        "intermediate_answer": "William Shakespeare is the playwright living from 1564-1616."
+                    },
+                    {
+                        "explanation": "I will now gather information specifically related to Shakespeare's works as mentioned in the context. The first sentence indicates that Shakespeare's plays are considered among the greatest in the English language and Western literature.",
+                        "intermediate_answer": "Shakespeare's plays are highly regarded."
+                    },
+                    {
+                        "explanation": "The context also mentions the genres of his plays (tragedy, history, and comedy), which suggests the diversity of his work.",
+                        "intermediate_answer": "His plays are divided into tragedy, history, and comedy."
+                    },
+                    {
+                        "explanation": "Additionally, the context mentions that Shakespeare wrote approximately 38 plays and 154 sonnets, indicating a substantial body of work.",
+                        "intermediate_answer": "Shakespeare wrote about 38 plays and 154 sonnets."
+                    },
+                    {
+                        "explanation": "The translation and performance of his works across every major language further emphasizes the global impact and timeless relevance of his works.",
+                        "intermediate_answer": "His plays have been translated into every major language and are performed worldwide."
+                    },
+                    {
+                        "explanation": "All these pieces of information culminate to present a picture of Shakespeare's works as significant, diverse in genre, and globally influential.",
+                        "intermediate_answer": "Shakespeare's works are significant, diverse, and globally influential."
+                    }
+                ],
+                "final_answer": "Shakespeare's works are significant and include about 38 plays and 154 sonnets, highly regarded and performed worldwide."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, review the context to identify any German projects and related songs.",
+                        "intermediate_answer": "Identify the German projects listed, such as Troum, Deutsche Wirtschaftsbetriebe, and Enigma."
+                    },
+                    {
+                        "explanation": "Next, pinpoint which German project is associated with a song that features vocals by Aquilo, the duo from Silverdale, England.",
+                        "intermediate_answer": "According to the context, the song 'Amen' by the German project Enigma features vocals by the English duo Aquilo."
+                    },
+                    {
+                        "explanation": "Confirm that Enigma is a German project and that the song indeed features the duo Aquilo, supporting the connection needed in the question.",
+                        "intermediate_answer": "Enigma is confirmed to be a German musical project and 'Amen' is the song in question that fulfills the criteria."
+                    }
+                ],
+                "final_answer": "Enigma"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the occupations of Ian Hunter from the context provided.",
+                        "intermediate_answer": "Ian Hunter is a singer-songwriter, known primarily for being the lead singer of the rock band Mott the Hoople."
+                    },
+                    {
+                        "explanation": "Next, I will find the occupations of Rob Thomas from the context provided.",
+                        "intermediate_answer": "Rob Thomas is described as a screenwriter, singer, songwriter, and record producer."
+                    },
+                    {
+                        "explanation": "Now, I will compare the occupations of both Ian Hunter and Rob Thomas to find any commonalities.",
+                        "intermediate_answer": "While both are musicians (singers and songwriters), Rob Thomas is also noted as a screenwriter."
+                    },
+                    {
+                        "explanation": "To summarize the findings, I will confirm the common occupations that intersect.",
+                        "intermediate_answer": "Both Ian Hunter and Rob Thomas are involved in music as singers and songwriters."
+                    }
+                ],
+                "final_answer": "Both Ian Hunter and Rob Thomas are singers and songwriters."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we need to identify which player from the context was a signee for FC Barcelona and also played for the Minnesota Timberwolves.",
+                        "intermediate_answer": "Ricky Rubio is mentioned as having played for both FC Barcelona and the Minnesota Timberwolves."
+                    },
+                    {
+                        "explanation": "Next, I will check if Ricky Rubio was noted to be a contender for the Rookie of the Year Award during his time with the Timberwolves.",
+                        "intermediate_answer": "The context states that Ricky Rubio was a contender for the Rookie of the Year Award during the 2011\u201312 Minnesota Timberwolves season."
+                    },
+                    {
+                        "explanation": "Since both conditions are met (FC Barcelona signee and Rookie of the Year contender), we can conclude that the answer is Ricky Rubio.",
+                        "intermediate_answer": "The player in question is Ricky Rubio."
+                    }
+                ],
+                "final_answer": "Ricky Rubio"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to identify what professions Eric Ambler and Carol Shields are known for based on the context provided.",
+                        "intermediate_answer": "Look at Eric Ambler's information."
+                    },
+                    {
+                        "explanation": "Eric Ambler is noted as an influential British author of thrillers, particularly spy novels. He is also recognized for his work as a screenwriter.",
+                        "intermediate_answer": "Eric Ambler is an author and screenwriter."
+                    },
+                    {
+                        "explanation": "Next, we need to look at Carol Shields' information.",
+                        "intermediate_answer": "Look at Carol Shields' information."
+                    },
+                    {
+                        "explanation": "Carol Shields is described as an American-born Canadian novelist and short story writer, best known for her Pulitzer Prize-winning novel \"The Stone Diaries.\"",
+                        "intermediate_answer": "Carol Shields is a novelist and short story writer."
+                    },
+                    {
+                        "explanation": "Now, we can summarize both findings. Both Eric Ambler and Carol Shields are known for their writing careers, specifically in different genres.",
+                        "intermediate_answer": "Both are known for their writing."
+                    },
+                    {
+                        "explanation": "Therefore, the conclusion is that 'writer' is the shared profession of Eric Ambler and Carol Shields as they both are recognized for their contributions to literature.",
+                        "intermediate_answer": "The shared profession is 'writer.'"
+                    }
+                ],
+                "final_answer": "Both are known as writers."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the song mentioned in the question, which is \"I'll Keep the Lovelight Burning\".",
+                        "intermediate_answer": "\"I'll Keep the Lovelight Burning\" is mentioned."
+                    },
+                    {
+                        "explanation": "Look for information about the artist who popularized this song in the provided context.",
+                        "intermediate_answer": "The artist mentioned in the context is Patti Page."
+                    },
+                    {
+                        "explanation": "Check the context for details about Patti Page's birth year.",
+                        "intermediate_answer": "Patti Page was born on November 8, 1927."
+                    },
+                    {
+                        "explanation": "Conclude the exact year of birth mentioned for Patti Page.",
+                        "intermediate_answer": "Patti Page was born in 1927."
+                    }
+                ],
+                "final_answer": "1927"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Paul Clyne served as the District Attorney of Albany County, New York, which means he was active in the legal community in Albany.",
+                        "intermediate_answer": "Albany, New York"
+                    },
+                    {
+                        "explanation": "David Soares is specifically mentioned as the Albany County District Attorney, indicating he also works in Albany, New York.",
+                        "intermediate_answer": "Albany, New York"
+                    },
+                    {
+                        "explanation": "Both individuals were involved in the same legal jurisdiction, as they served as District Attorneys in Albany County, New York, at different times.",
+                        "intermediate_answer": "Albany, New York"
+                    }
+                ],
+                "final_answer": "Albany, New York"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for the European city that is home to the college from which Comic Book Girl 19 received her degree.",
+                        "intermediate_answer": "Savannah College of Art and Design (SCAD) has a location in Lacoste, France."
+                    },
+                    {
+                        "explanation": "I need to identify whether Lacoste, France is a European city based on the information provided.",
+                        "intermediate_answer": "Lacoste is definitely located in France, which is considered a European country."
+                    },
+                    {
+                        "explanation": "The final piece is confirming that SCAD is indeed located in Lacoste, France and that Lacoste is the relevant European city.",
+                        "intermediate_answer": "The Savannah College of Art and Design has a location in Lacoste, France."
+                    }
+                ],
+                "final_answer": "Lacoste, France"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to identify the American metalcore band that was formed in mid-2009 and had Jerry Roush as the lead vocalist.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "From the context, I see that Of Mice & Men is explicitly stated as being formed in 2009.",
+                        "intermediate_answer": "Of Mice & Men"
+                    },
+                    {
+                        "explanation": "Next, I check what the context says about Jerry Roush. He is mentioned as the lead vocalist of Glass Cloud.",
+                        "intermediate_answer": "Jerry Roush was the lead vocalist of Glass Cloud."
+                    },
+                    {
+                        "explanation": "To resolve the query, I need to ascertain if there's a connection between Of Mice & Men and Jerry Roush.",
+                        "intermediate_answer": "There is no direct connection between Jerry Roush and Of Mice & Men."
+                    },
+                    {
+                        "explanation": "Referring specifically to the details provided, I need to identify the location of Glass Cloud's formation as it's the band with Jerry Roush.",
+                        "intermediate_answer": "Glass Cloud formed in Hampton, Virginia."
+                    },
+                    {
+                        "explanation": "Thus, since Glass Cloud is the correct band that meets the criteria, I finalize my answer.",
+                        "intermediate_answer": ""
+                    }
+                ],
+                "final_answer": "Virginia"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we need to determine if Lygodium is an orchid. I check the context provided to see the information about Lygodium.",
+                        "intermediate_answer": "Lygodium is a genus of about 40 species of ferns."
+                    },
+                    {
+                        "explanation": "Lygodium is specifically mentioned as a genus of ferns, and there is no indication in the context that it belongs to the orchid family, Orchidaceae.",
+                        "intermediate_answer": "Lygodium is not a genus of orchids."
+                    },
+                    {
+                        "explanation": "Next, I check the provided context for information about Maxillaria to determine if it is an orchid genus.",
+                        "intermediate_answer": "Maxillaria is described as a large genus of orchids (family Orchidaceae)."
+                    },
+                    {
+                        "explanation": "Since Maxillaria is explicitly stated to be a genus of orchids, I conclude that it is indeed an orchid genus according to the context.",
+                        "intermediate_answer": "Maxillaria is a genus of orchids."
+                    },
+                    {
+                        "explanation": "To answer the question, I combine the information gathered about both Lygodium and Maxillaria to provide a final response.",
+                        "intermediate_answer": "Lygodium is not a genus of orchids, while Maxillaria is."
+                    }
+                ],
+                "final_answer": "No, Lygodium is not a genus of orchids, but Maxillaria is."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify gospel singers mentioned in the context and check their dates of birth.",
+                        "intermediate_answer": "Karen Clark Sheard (Nov 15, 1960), Andra\u00e9 Crouch (July 1, 1942), Larnelle Harris (July 6, 1947), Kierra Sheard (June 20, 1987), Charles Charamba (April 27, 1971), Latice Crawford (July 22, 1982), Muyiwa Olarewaju (born Nov 26)."
+                    },
+                    {
+                        "explanation": "From the identified singers, focus on those born in July: Andra\u00e9 Crouch (July 1, 1942) and Larnelle Harris (July 6, 1947) and Latice Crawford (July 22, 1982) is also in July.",
+                        "intermediate_answer": "Andra\u00e9 Crouch, Larnelle Harris, Latice Crawford."
+                    },
+                    {
+                        "explanation": "Check the context for any references to David Huntsinger working with these July-born singers.",
+                        "intermediate_answer": "Context mentions David Huntsinger has worked with Larnelle Harris."
+                    },
+                    {
+                        "explanation": "Confirm that Larnelle Harris is indeed born in July, affirming the connection with David Huntsinger.",
+                        "intermediate_answer": "Larnelle Harris (July 6, 1947) confirms he is the correct gospel singer born in July."
+                    }
+                ],
+                "final_answer": "Larnelle Harris"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The song \"Speed of Sound\" is performed by Coldplay and is associated with their third studio album titled \"X&Y\".",
+                        "intermediate_answer": "The song \"Speed of Sound\" is on the album \"X&Y\"."
+                    },
+                    {
+                        "explanation": "The album \"X&Y\" was released on June 6, 2005, and it's noted for its distinctive cover art.",
+                        "intermediate_answer": "The album \"X&Y\" released in 2005."
+                    },
+                    {
+                        "explanation": "The cover art of \"X&Y\" is described as a combination of colors and blocks, which symbolizes the Baudot code.",
+                        "intermediate_answer": "The cover art represents a combination of colors and blocks, symbolizing Baudot code."
+                    },
+                    {
+                        "explanation": "From the previous conclusions, it is determined that the cover art of the album accompanying the song \"Speed of Sound\" is that of \"X&Y\" which features a symbolic design.",
+                        "intermediate_answer": "The cover art of \"X&Y\" features a symbolic combination of colors and blocks."
+                    }
+                ],
+                "final_answer": "The cover art of the album \"X&Y\" features a combination of colors and blocks, representing Baudot code."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the year The Chronicle of Philanthropy was founded, as well as the years Antic magazine was published.",
+                        "intermediate_answer": "The Chronicle of Philanthropy was founded in 1988."
+                    },
+                    {
+                        "explanation": "Next, I look for the publication years of Antic magazine. The details show that Antic was published from April 1982 until June/July 1990.",
+                        "intermediate_answer": "Antic was published from April 1982 to June/July 1990."
+                    },
+                    {
+                        "explanation": "Then, I analyze the overlap between the publication years of both The Chronicle of Philanthropy and Antic.",
+                        "intermediate_answer": "The Chronicle of Philanthropy started in 1988 and Antic ended in 1990."
+                    },
+                    {
+                        "explanation": "Thus, the overlap of their publication years occurs from 1988 to 1990. Therefore, The Chronicle of Philanthropy's publishing years overlap with Antic from 1988 until 1990.",
+                        "intermediate_answer": "The years of overlap are 1988, 1989, and part of 1990."
+                    },
+                    {
+                        "explanation": "Finally, I conclude that the specific year when they were both being published simultaneously is 1988 through 1990.",
+                        "intermediate_answer": "The Chronicle of Philanthropy and Antic were published together in 1988, 1989, and part of 1990."
+                    }
+                ],
+                "final_answer": "From 1988 to 1990."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context mentions Bisquick and states that it is sold by General Mills, which is a manufacturer of branded consumer foods.",
+                        "intermediate_answer": "General Mills is the manufacturer of Bisquick."
+                    },
+                    {
+                        "explanation": "The context provides additional information about General Mills, including its headquarters location.",
+                        "intermediate_answer": "General Mills is headquartered in Golden Valley, Minnesota."
+                    },
+                    {
+                        "explanation": "Since Bisquick is produced by General Mills, the state where General Mills is headquartered is also the state where Bisquick is manufactured.",
+                        "intermediate_answer": "The manufacturer of Bisquick is located in Minnesota."
+                    }
+                ],
+                "final_answer": "Minnesota"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We start with the context that provides information about the film 'Heavenly Creatures'. It indicates that this film is based on the Parker\u2013Hulme murder case and features two main characters, Pauline Parker and Juliet Hulme.",
+                        "intermediate_answer": "The film features Juliet Hulme."
+                    },
+                    {
+                        "explanation": "According to the context, Kate Winslet plays the role of Juliet Hulme in 'Heavenly Creatures'. Therefore, we need to determine the actual person behind the character of Juliet Hulme as presented in the film.",
+                        "intermediate_answer": "Juliet Hulme is depicted by Kate Winslet."
+                    },
+                    {
+                        "explanation": "The next important detail from the context is that Anne Perry is the real name of Juliet Hulme. The language states that Anne Perry was born as Juliet Marion Hulme, and after serving time for murder at fifteen years old, she adopted the name Anne Perry.",
+                        "intermediate_answer": "Juliet Hulme's real name after changing it is Anne Perry."
+                    },
+                    {
+                        "explanation": "Thus, putting all information together, the given name of the character depicted as Juliet Hulme in 'Heavenly Creatures' ultimately relates back to her original name before she changed it.",
+                        "intermediate_answer": "Her given name is Juliet."
+                    }
+                ],
+                "final_answer": "Juliet"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for the field of the degree held by the head of the Foreign Relations Department of the Rastriya Janashakti Party, who is also mentioned as Hari Bahadur Basnet.",
+                        "intermediate_answer": "The context states that Hari Bahadur Basnet holds a degree labeled M.Sc. in Engineering."
+                    },
+                    {
+                        "explanation": "The context provides a definition of a Master of Science (M.Sc.) and states that this degree is typically awarded for studies in fields like sciences, engineering, and medicine.",
+                        "intermediate_answer": "Given that Basnet has a degree in Engineering, it falls under the category of the Master of Science degree."
+                    },
+                    {
+                        "explanation": "I connect the pieces of information to confirm the specific field of the degree held by Basnet.",
+                        "intermediate_answer": "The specific field of the M.Sc. degree is Engineering."
+                    }
+                ],
+                "final_answer": "Engineering"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about the Rome Protocols and specifically mentions one of the Prime Ministers involved who was assassinated.",
+                        "intermediate_answer": "Benito Mussolini, Engelbert Dollfuss, Gyula G\u00f6mb\u00f6s were involved."
+                    },
+                    {
+                        "explanation": "From the context provided, Engelbert Dollfuss is mentioned as having been assassinated in 1934.",
+                        "intermediate_answer": "Engelbert Dollfuss was assassinated."
+                    },
+                    {
+                        "explanation": "The text states that Dollfuss was assassinated as part of a failed coup attempt by Nazi agents.",
+                        "intermediate_answer": "The reason for Dollfuss's assassination was the failed coup attempt."
+                    },
+                    {
+                        "explanation": "The specific assassination of Dollfuss was politically motivated, linked to the broader context of Nazi influence in Austria at the time.",
+                        "intermediate_answer": "Dollfuss was assassinated as part of the political turmoil instigated by Nazi agents."
+                    }
+                ],
+                "final_answer": "a failed coup attempt by Nazi agents."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question is about Alice David's role in a video game and the company that developed it. The context mentions Alice David specifically as the voice of Lara Croft in the video game.",
+                        "intermediate_answer": "Alice David is the voice of Lara Croft in 'Tomb Raider'."
+                    },
+                    {
+                        "explanation": "Next, we need to identify which company developed the 'Tomb Raider' video game in which Alice David is the voice of Lara Croft. The context details various games and mentions that multiple games in the franchise were developed by different companies.",
+                        "intermediate_answer": "The video game featuring Alice David as Lara Croft is part of the 'Tomb Raider' franchise."
+                    },
+                    {
+                        "explanation": "The context reveals that the main titles associated with 'Tomb Raider' have predominantly been developed by two companies: Core Design and Crystal Dynamics. As Core Design initially developed the original games and Crystal Dynamics took over later, we need to check if Alice David's role corresponds to a specific era or title to pinpoint the developer.",
+                        "intermediate_answer": "Tomb Raider franchise games developed by Crystal Dynamics are relevant since they handled the more recent titles."
+                    },
+                    {
+                        "explanation": "Since the title is not specified in the question, we look at recent releases from the franchise that would have been developed by Crystal Dynamics around the time Alice David was voicing for Lara Croft.",
+                        "intermediate_answer": "The recent Tomb Raider titles include those developed by Crystal Dynamics."
+                    },
+                    {
+                        "explanation": "Lastly, it is clear from the context that Alice David's involvement as the voice would align with the newer 'Tomb Raider' titles which are developed by Crystal Dynamics, confirming the developer.",
+                        "intermediate_answer": "Crystal Dynamics developed the video game 'Tomb Raider' where Alice David voiced Lara Croft."
+                    }
+                ],
+                "final_answer": "Crystal Dynamics"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about the state of rivalry in Russia-United Kingdom relations after the abdication of Emperor Nicholas II.",
+                        "intermediate_answer": "The abdication of Nicholas II occurred in March 1917."
+                    },
+                    {
+                        "explanation": "Following the abdication, the Russian Empire faced significant turmoil, including the Russian Revolution of 1917.",
+                        "intermediate_answer": "The Russian Revolution of 1917 was a crucial event that affected Russia's relations with the UK."
+                    },
+                    {
+                        "explanation": "During the period of the Russian Revolution, the relationship between Russia and the UK was characterized by tensions, particularly since the UK was involved in World War I at that time.",
+                        "intermediate_answer": "World War I was ongoing during the abdication and subsequent Russian Revolution."
+                    },
+                    {
+                        "explanation": "The context mentions that during World War I, Russia and the UK were allies, but after the revolution and the collapse of the Russian Empire, their relations became strained and moved towards rivalry.",
+                        "intermediate_answer": "After the revolution, the UK likely began viewing the new Bolshevik regime with hostility."
+                    },
+                    {
+                        "explanation": "Historically, after World War I, the relationship turned into outright rivalry, exemplified during the Cold War.",
+                        "intermediate_answer": "The Cold War marked a period of intense rivalry between the two countries."
+                    }
+                ],
+                "final_answer": "World War I"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We start with the context provided which includes information about Rex Maughan and his involvement with a company.",
+                        "intermediate_answer": "Rex Maughan is the founder and CEO of Forever Living Products."
+                    },
+                    {
+                        "explanation": "Next, we need to find any information related to Rex Maughan acquiring a company. The relevant context states that Forever Living Products acquired Aloe Vera of America.",
+                        "intermediate_answer": "Forever Living Products acquired Aloe Vera of America."
+                    },
+                    {
+                        "explanation": "Given that Rex Maughan is associated with Forever Living Products, and it was stated that Forever Living acquired Aloe Vera of America, we can conclusively say that this is the acquisition made by Rex Maughan's company.",
+                        "intermediate_answer": "Rex Maughan's company, Forever Living Products, acquired Aloe Vera of America."
+                    }
+                ],
+                "final_answer": "Aloe Vera of America"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question refers to a series of battles during the Revolutionary War focusing on the specific date and location mentioned.",
+                        "intermediate_answer": "Identify the battles linked to October 28, 1776."
+                    },
+                    {
+                        "explanation": "Based on the context, I can see that on October 28, 1776, a significant battle occurred near White Plains, New York.",
+                        "intermediate_answer": "The Battle of White Plains."
+                    },
+                    {
+                        "explanation": "Since the context details a series of battles for control of New York City and New Jersey, I need to confirm if 'The Battle of White Plains' fits this description.",
+                        "intermediate_answer": "Confirm the importance of the Battle of White Plains in the New York and New Jersey campaign."
+                    },
+                    {
+                        "explanation": "The context mentions that the Battle of White Plains was part of the New York and New Jersey campaign, which was a series of battles during the American Revolutionary War.",
+                        "intermediate_answer": "The Battle of White Plains is indeed part of the New York and New Jersey campaign."
+                    }
+                ],
+                "final_answer": "Battle of White Plains"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the nationality and profession of both individuals mentioned in the question.",
+                        "intermediate_answer": "Ruggero Deodato is an Italian film director, and Alejandro Springall is a Mexican film director."
+                    },
+                    {
+                        "explanation": "Confirm the roles of both individuals based on the given context.",
+                        "intermediate_answer": "Ruggero Deodato is explicitly stated to be a film director, screenwriter, and actor, while Alejandro Springall is identified as a film director and producer."
+                    },
+                    {
+                        "explanation": "Since both individuals are confirmed to hold the title of film director, we summarize these findings to answer the question.",
+                        "intermediate_answer": "Both Ruggero Deodato and Alejandro Springall are indeed film directors from Italy and Mexico respectively."
+                    }
+                ],
+                "final_answer": "Yes, both Ruggero Deodato and Alejandro Springall are film directors."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The prompt asks about the 53rd National Hockey League All-Star Game and specifies that it took place at an indoor arena. The context contains information mentioning the 53rd All-Star Game was held at the Office Depot Center in Sunrise, Florida.",
+                        "intermediate_answer": "The 53rd National Hockey League All-Star Game took place at the Office Depot Center."
+                    },
+                    {
+                        "explanation": "Next, we need to find out when the Office Depot Center was completed. The context provides information about the BB&T Center (previously known as the Office Depot Center). It states various names it has held and that it was completed in a specific year.",
+                        "intermediate_answer": "The Office Depot Center (or BB&T Center) was completed in 1998."
+                    },
+                    {
+                        "explanation": "Now that we have gathered the information about the location and its completion year, we can state that the 53rd NHL All-Star Game took place at this arena which was completed in 1998 accordingly.",
+                        "intermediate_answer": "1998"
+                    }
+                ],
+                "final_answer": "1998"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the episode dates from the context to compare which aired first.",
+                        "intermediate_answer": ""
+                    },
+                    {
+                        "explanation": "From the context, \"The Clash of Triton\" aired on July 5, 2010.",
+                        "intermediate_answer": "The Clash of Triton aired on July 5, 2010."
+                    },
+                    {
+                        "explanation": "Look for information about \"To SquarePants or Not to SquarePants\". However, the context doesn't provide a specific air date for this episode directly, but it mentions that it was part of the tenth-anniversary celebration in 2009.",
+                        "intermediate_answer": "To SquarePants or Not to SquarePants is associated with the tenth-anniversary celebrations in 2009."
+                    },
+                    {
+                        "explanation": "Since the tenth-anniversary celebration took place in 2009 and the episode is in relation to that, it indicates that \"To SquarePants or Not to SquarePants\" aired before July 5, 2010.",
+                        "intermediate_answer": "To SquarePants or Not to SquarePants aired before July 5, 2010."
+                    },
+                    {
+                        "explanation": "Comparing the dates, 2009 (for To SquarePants or Not to SquarePants) is earlier than July 5, 2010 (for The Clash of Triton).",
+                        "intermediate_answer": "To SquarePants or Not to SquarePants aired before The Clash of Triton."
+                    }
+                ],
+                "final_answer": "To SquarePants or Not to SquarePants aired first."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks whether Coldplay and Pierre Bouvier are from the same country.",
+                        "intermediate_answer": "Investigate the origins of Coldplay."
+                    },
+                    {
+                        "explanation": "Coldplay is identified as a British rock band, which means they originate from the United Kingdom.",
+                        "intermediate_answer": "Coldplay is from the United Kingdom."
+                    },
+                    {
+                        "explanation": "Next, determine the origin of Pierre Bouvier.",
+                        "intermediate_answer": "Investigate who Pierre Bouvier is."
+                    },
+                    {
+                        "explanation": "Pierre Bouvier is identified as a Canadian singer and the lead singer of Simple Plan, which indicates that he is from Canada.",
+                        "intermediate_answer": "Pierre Bouvier is from Canada."
+                    },
+                    {
+                        "explanation": "Now compare the origins of both parties: Coldplay (British) and Pierre Bouvier (Canadian).",
+                        "intermediate_answer": "Coldplay is from the United Kingdom and Pierre Bouvier is from Canada."
+                    },
+                    {
+                        "explanation": "Since the United Kingdom and Canada are separate countries, they are not from the same country.",
+                        "intermediate_answer": "Coldplay and Pierre Bouvier are not from the same country."
+                    }
+                ],
+                "final_answer": "No, Coldplay and Pierre Bouvier are not from the same country."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the context in which \"Operation Cold Comfort\" is mentioned to understand the details surrounding it.",
+                        "intermediate_answer": "Operation Cold Comfort is mentioned in the context of a failed SAS raid."
+                    },
+                    {
+                        "explanation": "From the context, determine which special forces unit was responsible for Operation Cold Comfort.",
+                        "intermediate_answer": "The special forces unit responsible for Operation Cold Comfort is the SAS (Special Air Service)."
+                    },
+                    {
+                        "explanation": "Look for the founding year of the SAS in the context provided.",
+                        "intermediate_answer": "The text states that the SAS was founded in 1941."
+                    },
+                    {
+                        "explanation": "Since we have established that Operation Cold Comfort was a failed raid by the SAS, and we have determined that the SAS was founded in 1941, we can directly answer the question.",
+                        "intermediate_answer": "Operation Cold Comfort was a failed raid by the SAS, founded in 1941."
+                    }
+                ],
+                "final_answer": "1941"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I first need to identify the works associated with Jerome Bernard and Ira Lewis from the context provided.",
+                        "intermediate_answer": "Works associated with them."
+                    },
+                    {
+                        "explanation": "Jerome Bernard, also known as Jerry Orbach, is mentioned, but more importantly, I need to find specific adaptations he's linked to.",
+                        "intermediate_answer": "Potential adaptations involving Jerry Orbach."
+                    },
+                    {
+                        "explanation": "Ira Lewis is known for his one-act play 'Chinese Coffee,' for which a film adaptation was made starring Al Pacino and Jerry Orbach.",
+                        "intermediate_answer": "Chinese Coffee is associated with Ira Lewis."
+                    },
+                    {
+                        "explanation": "Now that I know 'Chinese Coffee' is a notable work for Ira Lewis, I check if it also includes Jerome Bernard, specifically through the film adaptation.",
+                        "intermediate_answer": "Confirming Jerry Orbach's role in the film adaptation."
+                    },
+                    {
+                        "explanation": "Indeed, Jerry Orbach is in the film adaptation of 'Chinese Coffee,' confirming a shared connection with Ira Lewis.",
+                        "intermediate_answer": "Both Jerome Bernard and Ira Lewis share 'Chinese Coffee' adaptation."
+                    }
+                ],
+                "final_answer": "Chinese Coffee"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The University of Rochester is mentioned directly in the context.",
+                        "intermediate_answer": "University of Rochester"
+                    },
+                    {
+                        "explanation": "The context states that the University of Rochester has six schools.",
+                        "intermediate_answer": "Six schools"
+                    },
+                    {
+                        "explanation": "Confirming that Andrew J. Elliot is a professor at the University of Rochester, which has been established in the previous steps.",
+                        "intermediate_answer": "Andrew J. Elliot is at the University of Rochester"
+                    },
+                    {
+                        "explanation": "Thus, the answer can be concluded based on the information about the number of schools at the University of Rochester.",
+                        "intermediate_answer": "The university has six schools."
+                    }
+                ],
+                "final_answer": "6"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about Janne Kyttanen's exhibitions specifically related to modern art museums in Amsterdam.",
+                        "intermediate_answer": "Identify Janne Kyttanen's notable exhibitions."
+                    },
+                    {
+                        "explanation": "Looking through the context, Janne Kyttanen is mentioned to have exhibited his work in several museums, including the Stedelijk Museum.",
+                        "intermediate_answer": "Recognize the Stedelijk Museum as a relevant venue."
+                    },
+                    {
+                        "explanation": "Confirm Stedelijk Museum is located in Amsterdam and is a known site for modern art.",
+                        "intermediate_answer": "Verify the museum's significance and location."
+                    },
+                    {
+                        "explanation": "Since this matches the requirements of the question, I can conclude that Kyttanen has exhibited at this museum.",
+                        "intermediate_answer": "Determine the final answer."
+                    }
+                ],
+                "final_answer": "Stedelijk Museum Amsterdam"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to determine the order of Netflix shows leading up to 'The Defenders' miniseries by finding out which show was released before 'Jessica Jones'.",
+                        "intermediate_answer": "Identify the shows mentioned in the context."
+                    },
+                    {
+                        "explanation": "The context lists 'Daredevil' as the first in a series of shows that lead to 'The Defenders'.",
+                        "intermediate_answer": "Daredevil is the first show."
+                    },
+                    {
+                        "explanation": "From the provided information, since 'Jessica Jones' is identified as the second show in the series leading to 'The Defenders', it follows 'Daredevil'.",
+                        "intermediate_answer": "The show released earlier than 'Jessica Jones' is 'Daredevil'."
+                    }
+                ],
+                "final_answer": "Daredevil"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to find a community designed by Howard Van Doren Shaw that was established during the Progressive Era.",
+                        "intermediate_answer": "Search for any communities or planned developments in the data."
+                    },
+                    {
+                        "explanation": "Reviewing the sentences related to Howard Van Doren Shaw and his works, I find a mention of Marktown as a planned worker community built in 1917.",
+                        "intermediate_answer": "Marktown is noticed as an urban planned worker community."
+                    },
+                    {
+                        "explanation": "The context states that Marktown was created as a comprehensive community for workers during the Progressive Era.",
+                        "intermediate_answer": "Confirming that Marktown fits the criteria of a 1917 Progressive Era community."
+                    },
+                    {
+                        "explanation": "Thus, confirming that Howard Van Doren Shaw is the designer of Marktown, which was built in 1917.",
+                        "intermediate_answer": "Final conclusion drawn."
+                    }
+                ],
+                "final_answer": "Marktown"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks about the Livesey Hall War Memorial and which war it commemorates, particularly mentioning a war with over 60 million casualties.",
+                        "intermediate_answer": "World War II"
+                    },
+                    {
+                        "explanation": "Looking at the context provided, specifically the sentence that describes the Livesey Hall War Memorial, it states that it commemorates the fallen of both World War I and World War II.",
+                        "intermediate_answer": "It commemorates World War I and World War II."
+                    },
+                    {
+                        "explanation": "The question specifically emphasizes a war that had over 60 million casualties, which aligns with World War II, as noted in the context provided where it mentions that World War II had over 60 million casualties.",
+                        "intermediate_answer": "World War II had over 60 million casualties."
+                    }
+                ],
+                "final_answer": "World War II"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The phrase 'Stronger Together' refers to a book released by Hillary Clinton and her vice-presidential running mate Tim Kaine during the 2016 U.S. presidential election. Tim Kaine was the Democratic nominee for Vice President in that election.",
+                        "intermediate_answer": "The campaign is associated with Tim Kaine."
+                    },
+                    {
+                        "explanation": "Tim Kaine is identified as a U.S. Senator from Virginia.",
+                        "intermediate_answer": "Tim Kaine is a Senator from Virginia."
+                    },
+                    {
+                        "explanation": "Thus, the answer to the question about the Vice Presidential candidate's state is Virginia, where Tim Kaine is from.",
+                        "intermediate_answer": "Virginia."
+                    }
+                ],
+                "final_answer": "Virginia"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to identify which actors appeared in 'Grown-Ups' and also determine if they are known for any roles in 'Allo 'Allo!'.",
+                        "intermediate_answer": "Identify actors in 'Grown-Ups'"
+                    },
+                    {
+                        "explanation": "From the context, 'Grown-Ups' starred actors Lesley Manville, Philip Davis, Brenda Blethyn, Janine Duvitski, Lindsay Duncan, and Sam Kelly.",
+                        "intermediate_answer": "List of actors in 'Grown-Ups': Lesley Manville, Philip Davis, Brenda Blethyn, Janine Duvitski, Lindsay Duncan, Sam Kelly."
+                    },
+                    {
+                        "explanation": "Now, I will check which of these actors are known for their roles in 'Allo 'Allo!'.",
+                        "intermediate_answer": "Linking actors from 'Grown-Ups' to 'Allo 'Allo!'"
+                    },
+                    {
+                        "explanation": "Sam Kelly is noted in the context as being in 'Allo 'Allo!', specifically as Captain Hans Geering.",
+                        "intermediate_answer": "Sam Kelly was in 'Allo 'Allo!'"
+                    },
+                    {
+                        "explanation": "The question asks what role Sam Kelly was best known for on 'Allo 'Allo!'. After identifying his character, I can state that he was known for playing Captain Hans Geering.",
+                        "intermediate_answer": "Sam Kelly's role in 'Allo 'Allo!' was Captain Hans Geering."
+                    },
+                    {
+                        "explanation": "So, the answer to the question about who starred in 'Grown-Ups' and their role in 'Allo 'Allo!' is clear now.",
+                        "intermediate_answer": "Final conclusion regarding the role."
+                    }
+                ],
+                "final_answer": "Captain Hans Geering"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Let's start by identifying the nationality of Darren Benjamin Shepherd. According to the context, he is referred to as an American screenwriter and film director born in San Jose, CA.",
+                        "intermediate_answer": "Darren Benjamin Shepherd is American."
+                    },
+                    {
+                        "explanation": "Next, we need to establish the nationality of R\u00e9mi Lange. The context states that he was born in Gennevilliers, Hauts-de-Seine, France and is a French film director.",
+                        "intermediate_answer": "R\u00e9mi Lange is French."
+                    },
+                    {
+                        "explanation": "Now that we know the nationalities of both individuals, Darren Benjamin Shepherd is American and R\u00e9mi Lange is French.",
+                        "intermediate_answer": "Darren Benjamin Shepherd is American; R\u00e9mi Lange is French."
+                    },
+                    {
+                        "explanation": "Finally, since the question asks if both are American, we see that while one is American (Darren Benjamin Shepherd), the other (R\u00e9mi Lange) is not.",
+                        "intermediate_answer": "Not both are American."
+                    }
+                ],
+                "final_answer": "No, only Darren Benjamin Shepherd is American."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the song and its release details as mentioned in the context.",
+                        "intermediate_answer": "\"Love Incredible\" is a song by Cashmere Cat featuring Camila Cabello."
+                    },
+                    {
+                        "explanation": "Check for the record label associated with the song.",
+                        "intermediate_answer": "The song \"Love Incredible\" was released through Interscope and Mad Love."
+                    },
+                    {
+                        "explanation": "Determine the parent company of Interscope Records as noted in the context.",
+                        "intermediate_answer": "Interscope Records is a subsidiary of Universal Music Group."
+                    },
+                    {
+                        "explanation": "Since the question asks for the subsidiary of the record company that released \"Love Incredible,\" we must state the correct answer.",
+                        "intermediate_answer": "Universal Music Group."
+                    }
+                ],
+                "final_answer": "Universal Music Group"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context provides information about Jack Benny Binion and mentions his parentage. Specifically, it states that Jack Binion is the son of casino magnate Benny Binion.",
+                        "intermediate_answer": "Benny Binion"
+                    },
+                    {
+                        "explanation": "In order to answer the question, we need to find out the first name of Jack Benny Binion's father. The context clearly indicates that Jack Benny Binion's father's name is Benny.",
+                        "intermediate_answer": "Benny"
+                    },
+                    {
+                        "explanation": "After confirming from the context that there is no other mention of different names for Jack Benny Binion's father, I conclude that the first name of Jack Benny Binion's father is indeed Benny.",
+                        "intermediate_answer": "Benny"
+                    }
+                ],
+                "final_answer": "Benny"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we identify which university is the oldest private university in Georgia mentioned in the context.",
+                        "intermediate_answer": "Mercer University."
+                    },
+                    {
+                        "explanation": "Next, we check if the context provides information about the mascot of Mercer University.",
+                        "intermediate_answer": "The context does not provide specific information about the mascot."
+                    },
+                    {
+                        "explanation": "Given that the context is vague on Mercer University's mascot specifically, I will rely on general knowledge about Mercer University, which is known to have a bear as its mascot.",
+                        "intermediate_answer": "Mercer University's mascot is a bear."
+                    }
+                ],
+                "final_answer": "Bear"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the guitarist that co-wrote 'Bloody Reunion'. The context mentions Duane Roland and states that he co-wrote some of the band's biggest hits including 'Bloody Reunion'.",
+                        "intermediate_answer": "Duane Roland co-wrote 'Bloody Reunion'."
+                    },
+                    {
+                        "explanation": "Determine which band Duane Roland was part of. The context states that he was the guitarist for the Southern hard rock band Molly Hatchet from its founding in the mid-1970s until his departure in 1990, during which he recorded seven albums with them.",
+                        "intermediate_answer": "Molly Hatchet."
+                    },
+                    {
+                        "explanation": "Confirm that the band Gator Country included members from Molly Hatchet. The context notes that Gator Country was formed by several ex-members of Molly Hatchet, indicating a direct connection between the two.",
+                        "intermediate_answer": "Gator Country includes members from Molly Hatchet."
+                    }
+                ],
+                "final_answer": "Molly Hatchet"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to identify the films mentioned in the context that have a score composed by Jerry Goldsmith. The context lists several films and soundtracks, and it mentions Jerry Goldsmith as the composer for several of them: 'Christus Apollo', 'L.A. Confidential', 'Innerspace', 'Mulan', 'Total Recall', and 'Lionheart'.",
+                        "intermediate_answer": "Identify films with scores by Jerry Goldsmith."
+                    },
+                    {
+                        "explanation": "Next, we need to look at the details in the context for each film to find information about their executive producers. We will check each film that is confirmed to have Jerry Goldsmith as the composer.",
+                        "intermediate_answer": "Check for executive producers of Goldsmith's films."
+                    },
+                    {
+                        "explanation": "From the context, for 'Innerspace', Steven Spielberg is mentioned as the executive producer. For 'L.A. Confidential', there is no mention of the executive producer directly, but 'Total Recall' lists Ronald Shusett as an executive producer. 'Lionheart' indicates Francis Ford Coppola as the executive producer.",
+                        "intermediate_answer": "List executive producers associated with Goldsmith's films."
+                    },
+                    {
+                        "explanation": "The film 'Innerspace' states that it was produced by Michael Finnell and that Steven Spielberg served as the executive producer, while 'Total Recall' does not specify the executive producer. 'Lionheart' specifically mentions Coppola as the executive producer. Hence, we find multiple executive producers for Goldsmith's films.",
+                        "intermediate_answer": "Identify executive producers from the mentioned films."
+                    },
+                    {
+                        "explanation": "Since 'Innerspace' has a score composed by Jerry Goldsmith and Steven Spielberg is listed as the executive producer, we can conclude that Steven Spielberg is the executive producer associated with a film scored by Jerry Goldsmith.",
+                        "intermediate_answer": "Steven Spielberg is the executive producer for Innerspace."
+                    }
+                ],
+                "final_answer": "Steven Spielberg"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Jaclyn Stapp is married to Scott Stapp, who is the former frontman of the band Creed.",
+                        "intermediate_answer": "Scott Stapp is married to Jaclyn Stapp."
+                    },
+                    {
+                        "explanation": "Creed is an American rock band that disbanded in 2004. This information can be found in the context that discusses Creed's history and the tensions that led to their disbandment.",
+                        "intermediate_answer": "Creed disbanded in 2004."
+                    },
+                    {
+                        "explanation": "Thus, Jaclyn Stapp is married to the former frontman of Creed, which disbanded in 2004.",
+                        "intermediate_answer": "Scott Stapp was the former frontman of Creed."
+                    }
+                ],
+                "final_answer": "2004"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the Argentine former footballer mentioned in the context. The relevant information indicates that Ronald Koeman replaced Mauricio Pochettino on 16 June 2014.",
+                        "intermediate_answer": "Mauricio Pochettino"
+                    },
+                    {
+                        "explanation": "Next, I will find out when Mauricio Pochettino was born. The context mentions that he was born on 2 March 1972.",
+                        "intermediate_answer": "2 March 1972"
+                    },
+                    {
+                        "explanation": "Having identified both the Argentine former footballer and his birth date, I can conclude the answer to the question directly.",
+                        "intermediate_answer": "2 March 1972"
+                    }
+                ],
+                "final_answer": "2 March 1972"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Read through the context to extract necessary information about the birth year and team affiliation.",
+                        "intermediate_answer": "Kemp was born on September 23, 1984."
+                    },
+                    {
+                        "explanation": "Identify Matt Kemp's career timeline within the context. From the text, it states that he began his career in 2003 and played for the Dodgers from 2006 until 2014. This means that in 2007, he was indeed playing for the Dodgers.",
+                        "intermediate_answer": "Kemp played for the Dodgers during 2007."
+                    },
+                    {
+                        "explanation": "The question specifies looking for a rookie. Matt Kemp made his MLB debut in 2006, which means he wouldn't be considered a rookie in 2007, as he had already played the previous year.",
+                        "intermediate_answer": "Kemp is not a rookie in 2007."
+                    },
+                    {
+                        "explanation": "Review the context again for any other player that meets both criteria (born in 1984 and rookie for the Dodgers in 2007). Since Kemp is the only player mentioned born in 1984 who played for the Dodgers, we should check for other players who debuted that year.",
+                        "intermediate_answer": "No other relevant player was found."
+                    },
+                    {
+                        "explanation": "Since no other players were identified in the context with the same criteria, conclude that the only possible answer related to the Dodgers in 2007 and born in 1984 is Matt Kemp, despite him not being a rookie.",
+                        "intermediate_answer": "The only player mentioned is Matt Kemp."
+                    }
+                ],
+                "final_answer": "Matt Kemp"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to identify the film that Kam Heskin plays Paige Morgan in.",
+                        "intermediate_answer": "The Prince and Me"
+                    },
+                    {
+                        "explanation": "Next, I have to find out who directed 'The Prince and Me'.",
+                        "intermediate_answer": "Martha Coolidge"
+                    },
+                    {
+                        "explanation": "Now, I can combine both pieces of information to answer the question.",
+                        "intermediate_answer": "Kam Heskin plays Paige Morgan in 'The Prince and Me', directed by Martha Coolidge."
+                    }
+                ],
+                "final_answer": "Martha Coolidge"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context provides information about \u015aivar\u0101ma Swami and details his background and contributions.",
+                        "intermediate_answer": "Sivarama Swami is a Vaishnava guru and leader in ISKCON."
+                    },
+                    {
+                        "explanation": "The sentences mention that he is known for his knowledge of Vaishnava literature and has written several books about Gaudiya Vaishnavism.",
+                        "intermediate_answer": "He is knowledgeable in Vaishnava literature."
+                    },
+                    {
+                        "explanation": "The specific detail given is that he conducts courses at Bhaktivedanta Manor on his own commentaries.",
+                        "intermediate_answer": "He conducts courses at Bhaktivedanta Manor."
+                    },
+                    {
+                        "explanation": "Bhaktivedanta Manor is identified as a Gaudiya Vaishnava temple and is associated with ISKCON.",
+                        "intermediate_answer": "Bhaktivedanta Manor is part of the ISKCON organization."
+                    },
+                    {
+                        "explanation": "Thus, it confirms that the location where he conducts his courses is indeed Bhaktivedanta Manor.",
+                        "intermediate_answer": "Sivarama Swami conducts courses on Vaishnava Theology at Bhaktivedanta Manor."
+                    }
+                ],
+                "final_answer": "Bhaktivedanta Manor"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context mentions that Otterington railway station was located on the East Coast Main Line.",
+                        "intermediate_answer": "The East Coast Main Line is a major railway link."
+                    },
+                    {
+                        "explanation": "I need to identify the endpoints of the East Coast Main Line based on the context provided.",
+                        "intermediate_answer": "The context states that the East Coast Main Line connects London and Edinburgh."
+                    },
+                    {
+                        "explanation": "Now that I know the endpoints, I can answer the question about which city the East Coast Main Line connects from Edinburgh.",
+                        "intermediate_answer": "The main city at the southern end of the East Coast Main Line is London."
+                    },
+                    {
+                        "explanation": "Therefore, I conclude that the major city linked to Edinburgh by the 393 mi East Coast Main Line is London.",
+                        "intermediate_answer": "Edinburgh is linked to London."
+                    }
+                ],
+                "final_answer": "London"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, we identify the relevant sentence mentioning Loughborough Students' Union. It states that LSU serves members from Loughborough University.",
+                        "intermediate_answer": "Loughborough University is served by the Loughborough Students' Union."
+                    },
+                    {
+                        "explanation": "Next, we examine the information provided about Loughborough University. The text indicates it is a public research university located in Loughborough, Leicestershire, and has been a university since 1966, but has an institutional history dating back to 1909.",
+                        "intermediate_answer": "Loughborough University has been a university since 1966 and its roots go back to 1909."
+                    },
+                    {
+                        "explanation": "Having identified that Loughborough Students' Union serves Loughborough University, we conclude that the question is looking for the name of this university.",
+                        "intermediate_answer": "The public research university served by Loughborough Students' Union is Loughborough University."
+                    }
+                ],
+                "final_answer": "Loughborough University"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context mentions several places and individuals associated with Hawaii County.",
+                        "intermediate_answer": "The W. H. Shipman House is part of a historic narrative."
+                    },
+                    {
+                        "explanation": "The W. H. Shipman House is specified to be located in Hilo, Hawaii.",
+                        "intermediate_answer": "Hilo is known to be in Hawaii County."
+                    },
+                    {
+                        "explanation": "Since Hilo is situated on the Island of Hawai\u02bbi, which the context states is entirely encompassed by Hawaii County, we can confirm the relationship.",
+                        "intermediate_answer": "The location of the W. H. Shipman House confirms its presence in Hawaii County."
+                    },
+                    {
+                        "explanation": "The context provides information about Hawaii County, mentioning its characteristics and its largest settlement, Hilo.",
+                        "intermediate_answer": "This solidifies that Hilo is in Hawaii County."
+                    },
+                    {
+                        "explanation": "By connecting all previous points, the conclusion can be drawn that the W. H. Shipman House is indeed in Hawaii County.",
+                        "intermediate_answer": "This leads to the conclusion that the W. H. Shipman House is in Hawaii County."
+                    }
+                ],
+                "final_answer": "Hawaii County"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "Identify the Anglo-Irish actress and mistress of King William IV mentioned in the context.",
+                        "intermediate_answer": "Dorothea Jordan"
+                    },
+                    {
+                        "explanation": "Locate the specific sentence in the context that provides the birth date of Dorothea Jordan.",
+                        "intermediate_answer": "Dorothea Jordan (22 November 1761 \u2013 5 July 1816)"
+                    },
+                    {
+                        "explanation": "Extract the birth date from the sentence identified.",
+                        "intermediate_answer": "22 November 1761"
+                    }
+                ],
+                "final_answer": "22 November 1761"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "First, I need to find the services offered by Rock Nominees Ltd based on the context provided.",
+                        "intermediate_answer": "Rock Nominees Ltd operated in the cleaning, catering, and security porterage business."
+                    },
+                    {
+                        "explanation": "Next, I will identify the services that ISS A/S (Integrated Service Solutions) provides according to the context.",
+                        "intermediate_answer": "ISS A/S provides cleaning services, support services, property services, catering services, security services, and facility management services."
+                    },
+                    {
+                        "explanation": "Now I will look for overlap between the services provided by Rock Nominees Ltd and ISS A/S.",
+                        "intermediate_answer": "Both companies provide cleaning services, catering services, and security services."
+                    },
+                    {
+                        "explanation": "Finally, I will summarize the common services.",
+                        "intermediate_answer": "The common services offered by Rock Nominees Ltd and ISS A/S are cleaning services, catering services, and security services."
+                    }
+                ],
+                "final_answer": "Cleaning services, catering services, and security services."
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "I need to identify who became the first governor recognized in the context of the Missouri Compromise.",
+                        "intermediate_answer": "William King served as the first governor after Maine's separation from Massachusetts."
+                    },
+                    {
+                        "explanation": "The context mentions that Maine's separation from Massachusetts was related to the Missouri Compromise. Therefore, William King as the first governor is directly connected to the aftermath of the Missouri Compromise.",
+                        "intermediate_answer": "The first governor, William King, was governor of Maine."
+                    },
+                    {
+                        "explanation": "The question specifically asks where the first governor after the Missouri Compromise was from, which in this case indicates the state he governed.",
+                        "intermediate_answer": "William King was from Maine."
+                    }
+                ],
+                "final_answer": "Maine"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The question asks for the university associated with the group that performs \"Text Me Merry Christmas.\"",
+                        "intermediate_answer": "Straight No Chaser originated at Indiana University."
+                    },
+                    {
+                        "explanation": "The context mentions that \"Text Me Merry Christmas\" is performed by Straight No Chaser and Kristen Bell. Therefore, it's essential to identify more about the group mentioned.",
+                        "intermediate_answer": "The group is specified as Straight No Chaser."
+                    },
+                    {
+                        "explanation": "Based on the information given, I can find out where Straight No Chaser originated. The context states that Straight No Chaser is a professional a cappella group which originated in 1996 at Indiana University.",
+                        "intermediate_answer": "Indiana University is the university where Straight No Chaser originated."
+                    }
+                ],
+                "final_answer": "Indiana University"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "The context provides information about 'The Guest' and 'You're Next', including their release years and other details.",
+                        "intermediate_answer": "The Guest was released in 2014."
+                    },
+                    {
+                        "explanation": "The context also states that 'You're Next' is a film from 2011, which is earlier than the release of 'The Guest'.",
+                        "intermediate_answer": "You're Next was released in 2011."
+                    },
+                    {
+                        "explanation": "To determine which movie was filmed first, I compare the release years of both films.",
+                        "intermediate_answer": "You're Next was released in 2011, while The Guest was released in 2014."
+                    },
+                    {
+                        "explanation": "Since 2011 is earlier than 2014, that means 'You're Next' was filmed before 'The Guest'.",
+                        "intermediate_answer": "You're Next was filmed before The Guest."
+                    }
+                ],
+                "final_answer": "You're Next"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "We need to find individuals that are both British physicists and served as the chief scientific adviser to the British government.",
+                        "intermediate_answer": "Identify British physicists from the context."
+                    },
+                    {
+                        "explanation": "In the context, Frederick Lindemann and David MacKay are mentioned as British physicists. Lindemann was a chief scientific adviser during WWII, while MacKay served later.",
+                        "intermediate_answer": "Frederick Lindemann is a British physicist and served as a chief scientific adviser."
+                    },
+                    {
+                        "explanation": "Frederick Lindemann's role as a chief scientific adviser during the early 1940s aligns with the criteria from the question, confirming his dual status as a British physicist and an adviser to the government.",
+                        "intermediate_answer": "Frederick Lindemann fits both roles."
+                    }
+                ],
+                "final_answer": "Frederick Lindemann"
+            },
+            {
+                "steps": [
+                    {
+                        "explanation": "To determine which restaurant chain's headquarters is further north, I need to find out the locations of the headquarters for both Pizza Inn and Papa Gino's.",
+                        "intermediate_answer": "Identify the headquarters locations for Pizza Inn and Papa Gino's."
+                    },
+                    {
+                        "explanation": "Pizza Inn is based in The Colony, Texas which is located in the north-central part of Texas, USA. In contrast, Papa Gino's is headquartered in Dedham, Massachusetts, which is located in the northeastern part of the United States.",
+                        "intermediate_answer": "Pizza Inn: The Colony, Texas; Papa Gino's: Dedham, Massachusetts."
+                    },
+                    {
+                        "explanation": "Next, I need to compare the latitudes of Dedham, Massachusetts and The Colony, Texas to see which one is further north.",
+                        "intermediate_answer": "Determine the latitude of Dedham, MA and The Colony, TX."
+                    },
+                    {
+                        "explanation": "The latitude of Dedham, Massachusetts is approximately 42.24\u00b0 N, whereas The Colony, Texas has a latitude of approximately 33.06\u00b0 N. The higher the latitude number, the further north the location is.",
+                        "intermediate_answer": "Dedham, MA: 42.24\u00b0 N; The Colony, TX: 33.06\u00b0 N."
+                    },
+                    {
+                        "explanation": "Since 42.24\u00b0 N (Dedham, MA) is greater than 33.06\u00b0 N (The Colony, TX), Dedham, Massachusetts is indeed further north than The Colony, Texas.",
+                        "intermediate_answer": "Comparing latitudes shows Dedham, MA is further north than The Colony, TX."
+                    },
+                    {
+                        "explanation": "Therefore, since Papa Gino's has its headquarters in Dedham, Massachusetts, and is further north as compared to Pizza Inn based in The Colony, Texas, the answer is clear.",
+                        "intermediate_answer": "Papa Gino's is further north than Pizza Inn."
+                    }
+                ],
+                "final_answer": "Papa Gino's"
+            }
+        ]
+    }
+]
