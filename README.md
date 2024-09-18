@@ -55,8 +55,8 @@ Final Answer:
 
 | **Method** | **Description**                                                                                                                                                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AIOT**   | Autonomous Iteration of Thought (AIOT) dynamically adapts its reasoning paths based on the evolving state of the conversation without generating alternate explorative thoughts that are ultimately discarded. [Quick Example](./iot/experiments/quick-example.ipynb) |
-| **GIOT**   | Guided Iteration of Thought (GIOT) forces the LLM to continue iterating for a predefined number of steps, ensuring a thorough exploration of reasoning paths. [Quick Example](./iot/experiments/quick-example.ipynb)                                                  |
+| **AIOT**   | Autonomous Iteration of Thought (AIOT) dynamically adapts its reasoning paths based on the evolving state of the conversation without generating alternate explorative thoughts that are ultimately discarded. [Quick Example](./iot/quick-example.ipynb) |
+| **GIOT**   | Guided Iteration of Thought (GIOT) forces the LLM to continue iterating for a predefined number of steps, ensuring a thorough exploration of reasoning paths. [Quick Example](./iot/quick-example.ipynb)                                                  |
 
 
 
