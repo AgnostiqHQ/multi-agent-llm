@@ -295,15 +295,6 @@ class GIOT(Generic[T]):
             ] += f"Iteration {current_iteration}/{self.total_iterations}:\nCognitive Reflection Agent: {brain_ans.self_thought}\nLLM answer: {llm_ans.response}\n\n"
 
         final_answer = await self._llm_final_iteration(context)
-        # if final_answer:
-        #     context["conversation"].append(
-        #         ConversationTurn(
-        #             iteration=self.total_iterations + 1,
-        #             brain_thought="",
-        #             llm_response=final_answer.response,
-        #             is_final=True,
-        #         )
-        #     )
 
         return DiscussionResult(
             query=context["query"],
