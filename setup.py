@@ -14,7 +14,7 @@ install_requires = (this_directory / "requirements.txt").read_text().splitlines(
 
 setup(
     name="multi_agent_llm",
-    version="0.1.1",
+    version=version,
     description="An LLM Multi-Agent framework.",
     long_description=long_description,
     long_description_content_type="text/markdown",
