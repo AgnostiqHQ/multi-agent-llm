@@ -3,6 +3,9 @@ from setuptools import find_packages, setup
 
 this_directory = Path(__file__).parent
 
+# Read version from VERSION file
+version = (this_directory / "VERSION").read_text().strip()
+
 # Read text from README.md
 long_description = (this_directory / "README.md").read_text()
 
