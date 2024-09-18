@@ -2,11 +2,12 @@
 
 Welcome to the LLM based Multi-Agent repository! This repository provides a lean implementation of cutting-edge techniques and methods for leveraging Large Language Models (LLMs) with multi-agent architectures for various tasks. This includes methods developed by Agnostiq Inc. as well as other state-of-the-art methods. The repository is designed to be modular and easy to use, allowing for quick experimentation and please use it with caution for production purposes.
 
-## Quick example
+## Installation
 
-> Note that we will be releasing a pip installable version soon. For now, please clone the repository and use it as a standalone package. 
->Step 1: `git clone https://github.com/AgnostiqHQ/multi-agent-llm.git`
->Step 2: `pip install -e .`
+```bash
+pip install -U multi-agent-llm
+```
+## Quick example
 
 ```python
 import os; os.environ['OPENAI_API_KEY'] = "your_openai_api_key"
