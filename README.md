@@ -63,5 +63,5 @@ Final Answer:
 
 ------
 
-This repository also contains the results for the paper [Insert Paper Title Here]. You can find the relevant [experimental setups, datasets, and results](./examples/iot/exprements/). The folder contains results from various tasks. Feel free to explore these folders to reproduce the experiments or to get a deeper understanding of how the AIOT and GIOT frameworks work in practice.
+This repository also contains the results for the paper(Link to be added). You can find the relevant [experimental setups, datasets, and results](./examples/iot/exprements/). The folder contains results from various tasks. Feel free to explore these folders to reproduce the experiments or to get a deeper understanding of how the AIOT and GIOT frameworks work in practice.
 
