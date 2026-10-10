@@ -1,4 +1,4 @@
-datasets==3.2.0
+datasets==5.0.1
 nest-asyncio==1.6.0
 networkx==3.4.2
 numpy==1.26.4
